@@ -1,0 +1,24 @@
+.stream {
+  display: grid;
+  gap: 4px;
+}
+
+.stream__text {
+  form-sizing: normal;
+  padding: 8px;
+  border-radius: 8px;
+  transition: all var(--motion-transition-duration);
+}
+
+.stream__text:hover {
+  background-color: var(--color-surface-background-high);
+}
+
+.stream__text:focus-visible {
+  background-color: var(--color-surface-background-high);
+}
+
+.stream__timestamp {
+  font-size: var(--font-body-size-small);
+  color: var(--color-surface-foreground-weaker);
+}

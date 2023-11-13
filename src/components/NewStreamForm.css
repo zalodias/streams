@@ -1,0 +1,18 @@
+.new-stream-form__input {
+  width: 100%;
+  padding: 8px;
+  border-radius: 8px;
+  transition: all var(--motion-transition-duration);
+
+  &::placeholder {
+    color: var(--color-surface-foreground-weakest);
+  }
+
+  &:hover {
+    background-color: var(--color-surface-background-high);
+  }
+
+  &:focus-visible {
+    background-color: var(--color-surface-background-high);
+  }
+}

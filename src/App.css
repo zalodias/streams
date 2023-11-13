@@ -1,0 +1,4 @@
+.app__content {
+  display: grid;
+  gap: 20px;
+}
