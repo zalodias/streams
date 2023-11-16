@@ -1,5 +1,6 @@
-@layer reset, system, layout;
+@layer default, color, font, space, motion;
 
+@layer default {
   *:where(
       :not(html, iframe, canvas, img, svg, video, audio):not(svg *, symbol *)
     ) {
@@ -29,6 +30,8 @@
 
   :where(body) {
     min-block-size: 100%;
+    background-color: var(--color-surface-background-default);
+    color: var(--color-surface-foreground-default);
   }
 
   :where(img, picture, video, canvas, svg) {
@@ -67,86 +70,64 @@
   }
 }
 
-@layer layout {
-  body {
-    --layout-container-padding: 16px;
-    --layout-container-inline-size: 960px;
-
-    padding: var(--layout-container-padding);
-    max-inline-size: var(--layout-container-inline-size);
-    margin-inline: auto;
-  }
-}
-
-@layer system {
-  @layer color {
+@layer color {
+  @media (prefers-color-scheme: dark) {
     :root {
-      --color-neutral-100: 35 8% 96%;
-      --color-neutral-900: 35 8% 4%;
-    }
+      color-scheme: dark;
 
-    @media (prefers-color-scheme: dark) {
-      :root {
-        color-scheme: dark;
-
-        --color-surface-background-default: hsl(35 8% 8%);
-        --color-surface-background-high: hsl(35 8% 12%);
-        --color-surface-background-low: hsl(35 8% 6%);
-        --color-surface-foreground-default: hsl(35 8% 96%);
-        --color-surface-foreground-weak: hsl(35 8% 92%);
-        --color-surface-foreground-weaker: hsl(35 8% 80%);
-        --color-surface-foreground-weakest: hsl(35 8% 64%);
-      }
-    }
-
-    @media (prefers-color-scheme: light) {
-      :root {
-        color-scheme: light;
-
-        --color-surface-background-default: hsl(35 8% 100%);
-        --color-surface-background-high: hsl(35 8% 96%);
-        --color-surface-background-low: hsl(35 8% 92%);
-        --color-surface-foreground-default: hsl(35 8% 4%);
-        --color-surface-foreground-weak: hsl(35 8% 8%);
-        --color-surface-foreground-weaker: hsl(35 8% 16%);
-        --color-surface-foreground-weakest: hsl(35 8% 32%);
-      }
+      --color-surface-background-default: hsl(35 8% 8%);
+      --color-surface-background-high: hsl(35 8% 12%);
+      --color-surface-background-low: hsl(35 8% 6%);
+      --color-surface-foreground-default: hsl(35 8% 96%);
+      --color-surface-foreground-weak: hsl(35 8% 92%);
+      --color-surface-foreground-weaker: hsl(35 8% 80%);
+      --color-surface-foreground-weakest: hsl(35 8% 64%);
     }
   }
 
-  @layer font {
+  @media (prefers-color-scheme: light) {
     :root {
-      font-family: "Switzer", system-ui;
+      color-scheme: light;
 
-      --font-body-size-smaller: 12px;
-      --font-body-size-small: 14px;
-      --font-body-size-default: 16px;
-      --font-body-size-large: 18px;
-      --font-body-size-larger: 20px;
-      --font-display-size-smaller: 24px;
-      --font-display-size-small: 28px;
-      --font-display-size-default: 32px;
-      --font-display-size-large: 36px;
-      --font-display-size-larger: 40px;
-    }
-  }
-
-  @layer motion {
-    :root {
-      --motion-transition-duration: 240ms;
+      --color-surface-background-default: hsl(35 8% 100%);
+      --color-surface-background-high: hsl(35 8% 96%);
+      --color-surface-background-low: hsl(35 8% 92%);
+      --color-surface-foreground-default: hsl(35 8% 4%);
+      --color-surface-foreground-weak: hsl(35 8% 8%);
+      --color-surface-foreground-weaker: hsl(35 8% 16%);
+      --color-surface-foreground-weakest: hsl(35 8% 32%);
     }
   }
 }
 
-@layer layout {
-  :where(html) {
-    block-size: 100%;
-  }
+@layer font {
+  :root {
+    font-family: "Switzer", system-ui;
 
-  :where(body) {
-    min-block-size: 100%;
-    display: grid;
-    background-color: var(--color-surface-background-default);
-    color: var(--color-surface-foreground-default);
+    --font-body-size-smaller: 12px;
+    --font-body-size-small: 14px;
+    --font-body-size-default: 16px;
+    --font-body-size-large: 18px;
+    --font-body-size-larger: 20px;
+    --font-display-size-smaller: 24px;
+    --font-display-size-small: 28px;
+    --font-display-size-default: 32px;
+    --font-display-size-large: 36px;
+    --font-display-size-larger: 40px;
+  }
+}
+
+@layer space {
+  :root {
+    --layout-display: grid;
+    --layout-inset: 20px;
+    --layout-stack: 40px;
+    --container-size: 960px;
+  }
+}
+
+@layer motion {
+  :root {
+    --motion-transition-duration: 240ms;
   }
 }
