@@ -1,3 +1,4 @@
+import { For } from "solid-js";
 import { useStreamsStore } from "../stores/useStreamsStore";
 import { Stream } from "./Stream";
 import "./Streams.css";
@@ -7,16 +8,15 @@ export function Streams() {
 
   return (
     <ul className="streams">
-      {streams()
-        .slice()
-        .reverse()
-        .map((stream) => (
+      <For each={streams().slice().reverse()}>
+        {(stream) => (
           <Stream
             id={stream.id}
             text={stream.text}
             timestamp={stream.timestamp}
           />
-        ))}
+        )}
+      </For>
     </ul>
   );
 }
