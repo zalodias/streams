@@ -1,7 +1,8 @@
 @layer reset, system, layout;
 
-@layer reset {
-  * {
+  *:where(
+      :not(html, iframe, canvas, img, svg, video, audio):not(svg *, symbol *)
+    ) {
     all: unset;
     display: revert;
   }
