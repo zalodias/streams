@@ -3,16 +3,16 @@
   padding: 8px;
   border-radius: 8px;
   transition: all var(--motion-transition-duration);
+}
 
-  &::placeholder {
-    color: var(--color-surface-foreground-weakest);
-  }
+.new-stream-form__input::placeholder {
+  color: var(--color-surface-foreground-weakest);
+}
 
-  &:hover {
-    background-color: var(--color-surface-background-high);
-  }
+.new-stream-form__input:hover {
+  background-color: var(--color-surface-background-high);
+}
 
-  &:focus-visible {
-    background-color: var(--color-surface-background-high);
-  }
+.new-stream-form__input:focus-visible {
+  background-color: var(--color-surface-background-high);
 }
