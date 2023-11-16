@@ -30,7 +30,7 @@ export function NewStreamForm() {
         className="new-stream-form__input"
         type="text"
         value={newStreamText()}
-        onChange={handleNewStreamTextChange}
+        onInput={handleNewStreamTextChange}
         placeholder="What's on your mind?"
       />
     </form>

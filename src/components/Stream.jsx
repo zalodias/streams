@@ -30,7 +30,7 @@ export function Stream({ id, text, timestamp }) {
       <textarea
         className="stream__text"
         value={value()}
-        onChange={handleInputChange}
+        onInput={handleInputChange}
       />
     </li>
   );
