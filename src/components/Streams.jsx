@@ -1,9 +1,9 @@
 import { For } from "solid-js";
-import { useStreamsStore } from "../stores/useStreamsStore";
-import { Stream } from "./Stream";
+import useStreamsStore from "../stores/useStreamsStore";
+import Stream from "./Stream";
 import "./Streams.css";
 
-export function Streams() {
+export default function Streams() {
   const { streams } = useStreamsStore();
 
   return (

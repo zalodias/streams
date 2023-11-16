@@ -1,7 +1,7 @@
 import "./App.css";
-import { NewStreamForm } from "./components/NewStreamForm";
-import { Streams } from "./components/Streams";
-import { useStreamsStore } from "./stores/useStreamsStore";
+import NewStreamForm from "./components/NewStreamForm";
+import Streams from "./components/Streams";
+import useStreamsStore from "./stores/useStreamsStore";
 
 useStreamsStore();
 

@@ -1,8 +1,8 @@
 import { createSignal } from "solid-js";
-import { useStreamsStore } from "../stores/useStreamsStore";
+import useStreamsStore from "../stores/useStreamsStore";
 import "./Stream.css";
 
-export function Stream({ id, text, timestamp }) {
+export default function Stream({ id, text, timestamp }) {
   const [value, setValue] = createSignal(text);
   const { updateStream } = useStreamsStore();
 

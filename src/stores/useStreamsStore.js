@@ -1,7 +1,7 @@
 import { createSignal } from "solid-js";
 // import data from "../lib/notion.json";
 
-export function useStreamsStore() {
+export default function useStreamsStore() {
   // const streams = data.map((item) => ({
   //   id: item.id,
   //   text: item.paragraph.rich_text[0].plain_text,
