@@ -1,15 +1,17 @@
-import "./App.css";
+import Header from "./components/Header";
+import Container from "./components/Container";
+import Layout from "./components/Layout";
 import NewStreamForm from "./components/NewStreamForm";
 import Streams from "./components/Streams";
-import useStreamsStore from "./stores/useStreamsStore";
-
-useStreamsStore();
 
 export default function App() {
   return (
-    <main className="app__content">
-      <NewStreamForm />
-      <Streams />
-    </main>
+    <Layout>
+      <Header />
+      <Container>
+        <NewStreamForm />
+        <Streams />
+      </Container>
+    </Layout>
   );
 }
