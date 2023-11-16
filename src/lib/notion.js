@@ -2,9 +2,9 @@ import { Client } from "@notionhq/client";
 import { writeFileSync } from "fs";
 
 const notion = new Client({
-  auth: "secret_uX049bBIFGoIUjDJ0OBvFeLWe3fZEpVqILM37jMIT9N",
+  auth: process.env.NOTION_KEY,
 });
-const pageId = "199c0ce3db144bceaffcbffa251d092a";
+const pageId = process.env.NOTION_PAGE_ID;
 
 (async () => {
   try {
