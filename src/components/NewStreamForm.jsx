@@ -1,6 +1,6 @@
 import { createSignal } from "solid-js";
 import useStreamsStore from "../stores/useStreamsStore";
-import "./newStreamForm.css";
+import "./NewStreamForm.css";
 
 export default function NewStreamForm() {
   const [newStreamText, setNewStreamText] = createSignal("");
