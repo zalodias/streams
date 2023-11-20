@@ -2,5 +2,4 @@
   display: var(--layout-display);
   gap: var(--layout-stack);
   padding: var(--layout-inset);
-  max-inline-size: var(--layout-inline-size);
 }
