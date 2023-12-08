@@ -77,11 +77,14 @@
 
       --color-surface-background-default: hsl(35 8% 8%);
       --color-surface-background-high: hsl(35 8% 12%);
+      --color-surface-background-higher: hsl(35 8% 16%);
       --color-surface-background-low: hsl(35 8% 6%);
       --color-surface-foreground-default: hsl(35 8% 96%);
       --color-surface-foreground-weak: hsl(35 8% 92%);
       --color-surface-foreground-weaker: hsl(35 8% 80%);
       --color-surface-foreground-weakest: hsl(35 8% 64%);
+      --color-surface-border-default: hsl(35 8% 12%);
+      --color-surface-border-high: hsl(35 8% 16%);
     }
   }
 
