@@ -1,3 +1,7 @@
+.new-stream-form {
+  flex-grow: 1;
+}
+
 .new-stream-form__input {
   width: 100%;
   padding: 8px;
