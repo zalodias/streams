@@ -122,10 +122,10 @@
 
 @layer space {
   :root {
-    --layout-display: grid;
-    --layout-inset: 20px;
-    --layout-stack: 40px;
-    --container-size: 960px;
+    --space-layout-display: grid;
+    --space-layout-inset: 20px;
+    --space-layout-stack: 40px;
+    --space-container-size: 960px;
   }
 }
 

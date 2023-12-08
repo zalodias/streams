@@ -1,6 +1,6 @@
 .container {
   display: grid;
   gap: 20px;
-  inline-size: min(100%, var(--container-size));
+  inline-size: min(100%, var(--space-container-size));
   margin-inline: auto;
 }
