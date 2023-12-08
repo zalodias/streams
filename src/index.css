@@ -85,6 +85,14 @@
       --color-surface-foreground-weakest: hsl(35 8% 64%);
       --color-surface-border-default: hsl(35 8% 12%);
       --color-surface-border-high: hsl(35 8% 16%);
+
+      --color-action-background-neutral-default: hsl(35 8% 12%);
+      --color-action-background-neutral-strong: hsl(35 8% 16%);
+      --color-action-foreground-neutral-strong: hsl(35 8% 96%);
+      --color-action-foreground-neutral-default: hsl(35 8% 92%);
+      --color-action-foreground-neutral-subtle: hsl(35 8% 80%);
+      --color-action-foreground-neutral-faded: hsl(35 8% 64%);
+      --color-action-border-neutral: hsl(35 8% 16%);
     }
   }
 
@@ -99,6 +107,14 @@
       --color-surface-foreground-weak: hsl(35 8% 8%);
       --color-surface-foreground-weaker: hsl(35 8% 16%);
       --color-surface-foreground-weakest: hsl(35 8% 32%);
+
+      --color-action-background-neutral-default: hsl(35 8% 96%);
+      --color-action-background-neutral-strong: hsl(35 8% 92%);
+      --color-action-foreground-neutral-strong: hsl(35 8% 4%);
+      --color-action-foreground-neutral-default: hsl(35 8% 8%);
+      --color-action-foreground-neutral-subtle: hsl(35 8% 16%);
+      --color-action-foreground-neutral-faded: hsl(35 8% 64%);
+      --color-action-border-neutral: hsl(35 8% 92%);
     }
   }
 }
