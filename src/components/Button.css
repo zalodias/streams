@@ -1,0 +1,96 @@
+.button {
+  position: relative;
+  display: inline-flex;
+  width: fit-content;
+  cursor: pointer;
+  place-items: center;
+  font-weight: 500;
+  transition: all var(--motion-transition-duration);
+}
+
+.button.small {
+  padding-inline: 16px;
+  padding-block: 8px;
+  border-radius: 8px;
+  font-size: var(--font-body-size-small);
+}
+
+.button.icon.small {
+  padding-inline: 8px;
+}
+
+.button.medium {
+  padding-inline: 24px;
+  padding-block: 12px;
+  border-radius: 12px;
+  font-size: var(--font-body-size-medium);
+}
+
+.button.icon.medium {
+  padding-inline: 12px;
+}
+
+.button.large {
+  padding-inline: 32px;
+  padding-block: 16px;
+  border-radius: 16px;
+  font-size: var(--font-body-size-large);
+}
+
+.button.icon.large {
+  padding-inline: 16px;
+}
+
+.button.outline {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.button.outline.brand {
+  border-color: var(--color-action-border-brand);
+  color: var(--color-action-foreground-brand);
+}
+
+.button.outline.brand:hover,
+.button.outline.brand:focus-visible {
+  background-color: var(--color-action-background-brand);
+  color: var(--color-action-foreground-neutral-strong);
+}
+
+.button.outline.neutral {
+  border-color: var(--color-action-border-neutral);
+  color: var(--color-action-foreground-neutral-subtle);
+}
+
+.button.outline.neutral:hover,
+.button.outline.neutral:focus-visible {
+  background-color: var(--color-action-background-neutral-default);
+  color: var(--color-action-foreground-neutral-strong);
+}
+
+.button.solid.brand {
+  background-color: var(--color-action-background-brand);
+  color: var(--color-action-foreground-brand);
+}
+
+.button.solid.neutral {
+  background-color: var(--color-action-background-neutral-default);
+  color: var(--color-action-foreground-neutral-strong);
+}
+
+.button.solid.neutral:hover,
+.button.solid.neutral:focus-visible {
+  background-color: var(--color-action-background-neutral-strong);
+  color: var(--color-action-foreground-neutral-strong);
+}
+
+.button.ghost.neutral {
+  background-color: transparent;
+  color: var(--color-action-foreground-neutral-subtle);
+}
+
+.button.ghost.neutral:hover,
+.button.ghost.neutral:focus-visible {
+  background-color: var(--color-action-background-neutral-default);
+  color: var(--color-action-foreground-neutral-strong);
+}
