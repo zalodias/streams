@@ -71,28 +71,43 @@
 }
 
 @layer color {
+  :root {
+    --color-white: hsl(35 8% 100%);
+
+    --color-gray-50: hsl(35 8% 96%);
+    --color-gray-100: hsl(35 8% 92%);
+    --color-gray-200: hsl(35 8% 88%);
+    --color-gray-300: hsl(35 8% 80%);
+    --color-gray-400: hsl(35 8% 64%);
+    --color-gray-500: hsl(35 8% 48%);
+    --color-gray-600: hsl(35 8% 32%);
+    --color-gray-700: hsl(35 8% 16%);
+    --color-gray-800: hsl(35 8% 12%);
+    --color-gray-900: hsl(35 8% 8%);
+    --color-gray-950: hsl(35 8% 4%);
+  }
+
   @media (prefers-color-scheme: dark) {
     :root {
       color-scheme: dark;
 
-      --color-surface-background-default: hsl(35 8% 8%);
-      --color-surface-background-high: hsl(35 8% 12%);
-      --color-surface-background-higher: hsl(35 8% 16%);
-      --color-surface-background-low: hsl(35 8% 6%);
-      --color-surface-foreground-default: hsl(35 8% 96%);
-      --color-surface-foreground-weak: hsl(35 8% 92%);
-      --color-surface-foreground-weaker: hsl(35 8% 80%);
-      --color-surface-foreground-weakest: hsl(35 8% 64%);
-      --color-surface-border-default: hsl(35 8% 12%);
-      --color-surface-border-high: hsl(35 8% 16%);
+      --color-surface-background-default: var(--color-gray-900);
+      --color-surface-background-high: var(--color-gray-800);
+      --color-surface-background-higher: var(--color-gray-700);
+      --color-surface-foreground-default: var(--color-gray-50);
+      --color-surface-foreground-weak: var(--color-gray-100);
+      --color-surface-foreground-weaker: var(--color-gray-300);
+      --color-surface-foreground-weakest: var(--color-gray-400);
+      --color-surface-border-default: var(--color-gray-800);
+      --color-surface-border-high: var(--color-gray-700);
 
-      --color-action-background-neutral-default: hsl(35 8% 12%);
-      --color-action-background-neutral-strong: hsl(35 8% 16%);
-      --color-action-foreground-neutral-strong: hsl(35 8% 96%);
-      --color-action-foreground-neutral-default: hsl(35 8% 92%);
-      --color-action-foreground-neutral-subtle: hsl(35 8% 80%);
-      --color-action-foreground-neutral-faded: hsl(35 8% 64%);
-      --color-action-border-neutral: hsl(35 8% 16%);
+      --color-action-background-neutral-default: var(--color-gray-800);
+      --color-action-background-neutral-strong: var(--color-gray-700);
+      --color-action-foreground-neutral-strong: var(--color-gray-50);
+      --color-action-foreground-neutral-default: var(--color-gray-100);
+      --color-action-foreground-neutral-subtle: var(--color-gray-300);
+      --color-action-foreground-neutral-faded: var(--color-gray-400);
+      --color-action-border-neutral: var(--color-gray-700);
     }
   }
 
@@ -100,21 +115,21 @@
     :root {
       color-scheme: light;
 
-      --color-surface-background-default: hsl(35 8% 100%);
-      --color-surface-background-high: hsl(35 8% 96%);
-      --color-surface-background-low: hsl(35 8% 92%);
-      --color-surface-foreground-default: hsl(35 8% 4%);
-      --color-surface-foreground-weak: hsl(35 8% 8%);
-      --color-surface-foreground-weaker: hsl(35 8% 16%);
-      --color-surface-foreground-weakest: hsl(35 8% 32%);
+      --color-surface-background-default: var(--color-white);
+      --color-surface-background-high: var(--color-gray-50);
+      --color-surface-background-low: var(--color-gray-100);
+      --color-surface-foreground-default: var(--color-gray-900);
+      --color-surface-foreground-weak: var(--color-gray-900);
+      --color-surface-foreground-weaker: var(--color-gray-700);
+      --color-surface-foreground-weakest: var(--color-gray-600);
 
-      --color-action-background-neutral-default: hsl(35 8% 96%);
-      --color-action-background-neutral-strong: hsl(35 8% 92%);
-      --color-action-foreground-neutral-strong: hsl(35 8% 4%);
-      --color-action-foreground-neutral-default: hsl(35 8% 8%);
-      --color-action-foreground-neutral-subtle: hsl(35 8% 16%);
-      --color-action-foreground-neutral-faded: hsl(35 8% 64%);
-      --color-action-border-neutral: hsl(35 8% 92%);
+      --color-action-background-neutral-default: var(--color-gray-50);
+      --color-action-background-neutral-strong: var(--color-gray-100);
+      --color-action-foreground-neutral-strong: var(--color-gray-900);
+      --color-action-foreground-neutral-default: var(--color-gray-900);
+      --color-action-foreground-neutral-subtle: var(--color-gray-700);
+      --color-action-foreground-neutral-faded: var(--color-gray-400);
+      --color-action-border-neutral: var(--color-gray-100);
     }
   }
 }
