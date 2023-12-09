@@ -2,18 +2,18 @@
   "name": "Streams",
   "short_name": "Streams",
   "description": "Your minimal journal",
-  "start_url": "https://conscient.vercel.app/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#0B0A09",
   "theme_color": "#F6F5F4",
   "icons": [
     {
-      "src": "https://conscient.vercel.app/brandmark@192.png",
+      "src": "/brandmark@192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://conscient.vercel.app/brandmark@512.png",
+      "src": "/brandmark@512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
