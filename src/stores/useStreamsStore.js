@@ -1,15 +1,6 @@
 import { createSignal } from "solid-js";
-// import data from "../lib/notion.json";
 
 export default function useStreamsStore() {
-  // const streams = data.map((item) => ({
-  //   id: item.id,
-  //   text: item.paragraph.rich_text[0].plain_text,
-  //   timestamp: item.created_time,
-  // }));
-
-  // localStorage.setItem("streams", JSON.stringify(streams));
-
   const [streams, setStreams] = createSignal(
     JSON.parse(localStorage.getItem("streams")) || []
   );
