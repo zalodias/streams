@@ -2,7 +2,7 @@
   "name": "Streams",
   "short_name": "Streams",
   "description": "Your minimal journal",
-  "start_url": "/",
+  "start_url": "https://conscient.vercel.app/",
   "display": "standalone",
   "background_color": "#0B0A09",
   "theme_color": "#F6F5F4",
