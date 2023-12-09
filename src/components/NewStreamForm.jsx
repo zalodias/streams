@@ -1,35 +1,46 @@
 import { createSignal } from "solid-js";
-import useStreamsStore from "../stores/useStreamsStore";
 import "./NewStreamForm.css";
 
-export default function NewStreamForm() {
-  const [newStreamText, setNewStreamText] = createSignal("");
-  const { addStream } = useStreamsStore();
+export default function NewStreamForm(props) {
+  const [newStream, setNewStream] = createSignal({
+    id: crypto.randomUUID(),
+    text: "",
+    timestamp: new Date().toISOString(),
+  });
 
-  const handleNewStreamTextChange = (event) => {
-    setNewStreamText(event.target.value);
-  };
-
-  const handleFormSubmit = (event) => {
+  const addStream = (event) => {
     event.preventDefault();
 
-    const newStream = {
-      id: crypto.randomUUID(),
-      text: newStreamText(),
-      timestamp: new Date().toISOString(),
-    };
+    props.setStreams((streams) => {
+      const newStreams = [...streams, newStream()];
+      localStorage.setItem("streams", JSON.stringify(newStreams));
+      return newStreams;
+    });
 
-    addStream(newStream);
-    setNewStreamText("");
+    setNewStream({
+      ...newStream(),
+      text: "",
+    });
+
+    console.log(newStream());
+  };
+
+  const handleNewStreamTextChange = (event) => {
+    setNewStream({
+      ...newStream(),
+      text: event.target.value,
+      timestamp: new Date().toISOString(),
+    });
+    console.log(newStream());
   };
 
   return (
-    <form className="new-stream-form" onSubmit={handleFormSubmit}>
+    <form className="new-stream-form" onSubmit={addStream}>
       <input
         autoFocus
         className="new-stream-form__input"
         type="text"
-        value={newStreamText()}
+        value={newStream().text}
         onInput={handleNewStreamTextChange}
         placeholder="What's on your mind?"
       />

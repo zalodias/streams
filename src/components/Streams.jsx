@@ -1,14 +1,11 @@
 import { For } from "solid-js";
-import useStreamsStore from "../stores/useStreamsStore";
 import Stream from "./Stream";
 import "./Streams.css";
 
-export default function Streams() {
-  const { streams } = useStreamsStore();
-
+export default function Streams(props) {
   return (
     <ul className="streams">
-      <For each={streams().slice().reverse()}>
+      <For each={props.streams}>
         {(stream) => (
           <Stream
             id={stream.id}
