@@ -14,9 +14,9 @@
 }
 
 .new-stream-form__input:hover {
-  background-color: var(--color-surface-background-high);
+  background-color: var(--color-surface-background-subtle);
 }
 
 .new-stream-form__input:focus-visible {
-  background-color: var(--color-surface-background-high);
+  background-color: var(--color-surface-background-subtle);
 }

@@ -11,11 +11,11 @@
 }
 
 .stream__text:hover {
-  background-color: var(--color-surface-background-high);
+  background-color: var(--color-surface-background-subtle);
 }
 
 .stream__text:focus-visible {
-  background-color: var(--color-surface-background-high);
+  background-color: var(--color-surface-background-subtle);
 }
 
 .stream__timestamp {

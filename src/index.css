@@ -92,8 +92,8 @@
       color-scheme: dark;
 
       --color-surface-background-default: var(--color-gray-900);
-      --color-surface-background-high: var(--color-gray-800);
-      --color-surface-background-higher: var(--color-gray-700);
+      --color-surface-background-subtle: var(--color-gray-800);
+      --color-surface-background-faded: var(--color-gray-700);
       --color-surface-foreground-default: var(--color-gray-50);
       --color-surface-foreground-weak: var(--color-gray-100);
       --color-surface-foreground-weaker: var(--color-gray-300);
@@ -116,8 +116,8 @@
       color-scheme: light;
 
       --color-surface-background-default: var(--color-white);
-      --color-surface-background-high: var(--color-gray-50);
-      --color-surface-background-low: var(--color-gray-100);
+      --color-surface-background-subtle: var(--color-gray-50);
+      --color-surface-background-faded: var(--color-gray-100);
       --color-surface-foreground-default: var(--color-gray-900);
       --color-surface-foreground-weak: var(--color-gray-900);
       --color-surface-foreground-weaker: var(--color-gray-700);
