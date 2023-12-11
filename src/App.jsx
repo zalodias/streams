@@ -13,7 +13,7 @@ export default function App() {
   return (
     <Layout>
       <Container>
-        <Header />
+        <Header setStreams={setStreams} />
         <NewStreamForm setStreams={setStreams} />
         <Streams streams={streams().slice().reverse()} />
       </Container>
