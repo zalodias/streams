@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "7ca7688d-af50-4062-9279-e6ada65abb2d",
+    "text": "something",
+    "created_time": "2025-05-19T21:51:28.296Z",
+    "updated_time": "2025-05-19T21:51:28.296Z"
+  },
+  {
+    "id": "251e22b5-3f51-4e61-9593-a27f5b1e9584",
+    "text": "can words change the world? words don’t produce tangible change on their own. words are not actions. but words can ignite action",
+    "created_time": "2023-03-10T20:36:00.000Z",
+    "updated_time": "2023-10-17T23:18:00.000Z"
+  },
+  {
+    "id": "24eb9d21-7bf1-4e17-b728-9c8494e8f649",
+    "text": "social relationships are way too difficult i love computers",
+    "created_time": "2023-03-12T01:22:00.000Z",
+    "updated_time": "2023-03-12T14:23:00.000Z"
+  },
+  {
+    "id": "52f0fb8f-62c8-4b19-87cc-722967d8dcf5",
+    "text": "there’s a fine line between minimalism and laziness",
+    "created_time": "2023-03-12T19:53:00.000Z",
+    "updated_time": "2023-03-12T19:53:00.000Z"
+  },
+  {
+    "id": "e0e6d19e-c5e3-4cd7-ab7f-1b01368cde61",
+    "text": "i predict a resurgence of trade jobs in the next decade. manual, hands-on physical labor will be at a premium",
+    "created_time": "2023-03-16T21:41:00.000Z",
+    "updated_time": "2023-03-16T21:43:00.000Z"
+  },
+  {
+    "id": "c595ded7-a788-44ef-a032-c124d33bf392",
+    "text": "logical evolution for GPT based tools is not requiring active input. too much friction to write a good prompt. track my digital activity, derive what I want/need, write optimized prompts for me",
+    "created_time": "2023-03-17T13:38:00.000Z",
+    "updated_time": "2023-05-24T13:41:00.000Z"
+  },
+  {
+    "id": "2d94972c-f5e3-42ef-b2c5-160297347751",
+    "text": "steep learning curve is an euphemism for bad software",
+    "created_time": "2023-03-17T23:54:00.000Z",
+    "updated_time": "2023-03-17T23:59:00.000Z"
+  },
+  {
+    "id": "3f3a2c37-28cb-4419-b4ef-fae524eb8303",
+    "text": "trying to be more intentional on defining my social environment. people surrounding you can really impact your identity, shape the way you think & act - for the good & bad. important to be mindful",
+    "created_time": "2023-03-18T12:56:00.000Z",
+    "updated_time": "2023-03-18T22:35:00.000Z"
+  },
+  {
+    "id": "a0855a5c-94e0-440a-a9e1-825ae5a2a077",
+    "text": "feel most modern JS frameworks are too obsessed & over-engineering rendering patterns. extracting every second of performance on page load & interactivity is not what the user ultimately wants. sure, gotta keep it fast – but let’s avoid perf tunnel vision",
+    "created_time": "2023-03-18T13:04:00.000Z",
+    "updated_time": "2023-04-02T17:26:00.000Z"
+  },
+  {
+    "id": "2d438014-fc21-493f-b68b-fb0b0ed5767c",
+    "text": "the world would be a better a place if we all built great APIs. oddly satisfying to use a predictable, consistent & intuitive API, with great data structures, naming convention aesthetics and high-level abstractions",
+    "created_time": "2023-03-19T12:48:00.000Z",
+    "updated_time": "2023-05-17T22:22:00.000Z"
+  },
+  {
+    "id": "609a6f3f-98bc-4a1a-84fe-19b225fc1a6f",
+    "text": "you officially enter adulthood when your actions reflect your ephemeral condition",
+    "created_time": "2023-03-19T13:32:00.000Z",
+    "updated_time": "2023-03-19T17:48:00.000Z"
+  },
+  {
+    "id": "533dfc3e-b72b-4b6b-b91d-f850dc551e47",
+    "text": "internally i still take pride in being overworked – that should change. i try too hard, too much. i should focus on doing high value work instead",
+    "created_time": "2023-03-19T17:48:00.000Z",
+    "updated_time": "2023-03-21T13:11:00.000Z"
+  },
+  {
+    "id": "e46d7109-9715-4fb7-8082-d305f58aaa0b",
+    "text": "we’re overestimating LLMs autonomy. input is needed. you need humans to ask the right questions ",
+    "created_time": "2023-03-19T17:48:00.000Z",
+    "updated_time": "2023-03-22T01:17:00.000Z"
+  },
+  {
+    "id": "b017ca04-2942-4149-896c-b39f3800c710",
+    "text": "wish the web would come around to its roots. no big platforms, no aggregators. just everyone with their own little digital home. a world connected by hyperlinks",
+    "created_time": "2023-03-22T00:42:00.000Z",
+    "updated_time": "2023-03-22T01:20:00.000Z"
+  },
+  {
+    "id": "f4f4f774-54f0-41a1-8fe2-cf8a20c1a227",
+    "text": "we take pride in doing something complex because it’s hard to justify the perceived effort of doing something simple. simple is often seen as lazy",
+    "created_time": "2023-03-24T14:04:00.000Z",
+    "updated_time": "2023-04-20T12:44:00.000Z"
+  },
+  {
+    "id": "39cbfc76-c5a3-4823-958c-ca63c1d52dba",
+    "text": "multi-line editing should be an ubiquitous feature on text editors. and unfortunately it’s not",
+    "created_time": "2023-03-24T14:10:00.000Z",
+    "updated_time": "2023-03-24T18:50:00.000Z"
+  },
+  {
+    "id": "d892af90-1de6-45fb-9d0b-01980917f469",
+    "text": "when mouse gets cold it means 2 things: i’m using good software & i’m doing computers right",
+    "created_time": "2023-03-24T18:49:00.000Z",
+    "updated_time": "2023-05-17T22:21:00.000Z"
+  },
+  {
+    "id": "ee89e804-8922-42a2-b939-86bb83ba2f7c",
+    "text": "i feel minorities (ethnic, gender) often sabotage their inclusion in society. self-segregation happens a lot – mostly in the form of events for minority members only. there’s an implicit “us” vs “them” feeling – if you’re not one of us, you don’t understand, you don’t belong. this ends up being harmful for the minority, which gets increasingly excluded; and society, which gets decreasingly diverse",
+    "created_time": "2023-03-24T20:45:00.000Z",
+    "updated_time": "2023-05-15T23:42:00.000Z"
+  },
+  {
+    "id": "157c0f53-9404-43f1-b581-a704801c2f04",
+    "text": "i used to think i preferred computers to humans. now i think i haven’t met the right humans yet",
+    "created_time": "2023-03-26T02:19:00.000Z",
+    "updated_time": "2023-04-20T12:45:00.000Z"
+  },
+  {
+    "id": "85833a00-942c-4029-9941-d54f6a699223",
+    "text": "photorealistic image generation means: no more endless scrolling on stock images; no more copyright issues; just pure AI magic",
+    "created_time": "2023-03-26T02:23:00.000Z",
+    "updated_time": "2023-05-17T22:20:00.000Z"
+  },
+  {
+    "id": "8bb501f3-2aa8-40b4-ab89-40159ffac323",
+    "text": "knowledge is not about knowing how to do something – but knowing something can be done",
+    "created_time": "2023-03-27T15:52:00.000Z",
+    "updated_time": "2023-11-18T22:29:00.000Z"
+  },
+  {
+    "id": "a4bad5f1-864f-4d40-ac7a-4aeeb1f562e0",
+    "text": "watching flowers bloom reminds me how progress can be seemingly invisible. you never actually see the petals opening. but it compounds over time. eventually the small increments become something tangible",
+    "created_time": "2023-03-28T12:34:00.000Z",
+    "updated_time": "2023-03-29T13:31:00.000Z"
+  },
+  {
+    "id": "9a6942dc-644a-407e-a548-b38192cac351",
+    "text": "i still don’t understand why the clothes i’m wearing have such an impact on my mood",
+    "created_time": "2023-03-29T18:18:00.000Z",
+    "updated_time": "2023-11-18T22:30:00.000Z"
+  },
+  {
+    "id": "07c19183-cb85-4528-9ad4-6c4cf9552fcc",
+    "text": "i see the benefit in typed languages, but typescript is not worth it. consistent naming patterns & structures win over adding another compilation step to your code",
+    "created_time": "2023-04-02T16:22:00.000Z",
+    "updated_time": "2023-04-02T17:11:00.000Z"
+  },
+  {
+    "id": "c786bda9-a012-4855-a942-758eddb4f66a",
+    "text": "spectrums instead of absolutes. we tend to categorize people & things in absolute terms – this person is x, this thing is y. in reality, nothing in life can be defined so simplistically. everything is a spectrum",
+    "created_time": "2023-04-02T16:58:00.000Z",
+    "updated_time": "2023-11-02T09:26:00.000Z"
+  },
+  {
+    "id": "b0a76fa2-195e-4a50-8963-8399a255334d",
+    "text": "awareness is the ultimate life superpower. practicing internal & external mindfulness is the way to get it",
+    "created_time": "2023-04-04T22:53:00.000Z",
+    "updated_time": "2023-10-09T08:54:00.000Z"
+  },
+  {
+    "id": "377fd4f5-c3b4-4cad-a686-6b9da8b5d4a3",
+    "text": "you realize how much data you give away when every company in the whole world sends you a birthday message",
+    "created_time": "2023-04-07T10:30:00.000Z",
+    "updated_time": "2023-04-07T10:35:00.000Z"
+  },
+  {
+    "id": "d24a4c98-48b0-4ca0-b316-88cdf877bac2",
+    "text": "i die a little inside every time someone says you should use tools you’re comfortable with. you stagnate when you’re comfortable. doing things a different way, using different tools, is where growth happens",
+    "created_time": "2023-04-07T17:20:00.000Z",
+    "updated_time": "2023-04-08T04:35:00.000Z"
+  },
+  {
+    "id": "4bb2115d-b8d5-4a39-9821-df20b35c4b47",
+    "text": "spreadsheets are just great. modeling data through rows and columns – you rarely need anything more than that. flat structures. ubiquitous usage. small to medium scale, a spreadsheet is all you need",
+    "created_time": "2023-04-09T10:51:00.000Z",
+    "updated_time": "2023-04-21T19:49:00.000Z"
+  },
+  {
+    "id": "9affae24-9eae-45b0-9174-3f9fa23e40ac",
+    "text": "single metrics are very attractive. but eventually fall short of an accurate representation of reality. they don’t account for all the variables. they don’t account for the complexity of a decision",
+    "created_time": "2023-04-09T16:10:00.000Z",
+    "updated_time": "2023-04-09T16:16:00.000Z"
+  },
+  {
+    "id": "705442c1-8cfd-4f5c-8192-74fbc9ea6b15",
+    "text": "reminding myself to ask more questions. both at work & life. really hard on your ego, because you’ll ask some really stupid ones. but no questions mean no answers.",
+    "created_time": "2023-04-09T17:27:00.000Z",
+    "updated_time": "2023-04-11T22:13:00.000Z"
+  },
+  {
+    "id": "b64848c6-ce92-454e-a2ef-958919c9e81b",
+    "text": "often i find it hard to believe someone finds me attractive. i think it’s much easier for men. you can be attractive in a lot of different ways since you’re not so sexually objectified by society. unfortunately women suffer a lot from that",
+    "created_time": "2023-04-11T22:13:00.000Z",
+    "updated_time": "2023-04-13T20:35:00.000Z"
+  },
+  {
+    "id": "9814b255-73b7-4ffd-b609-0693a7707622",
+    "text": "coupling and decoupling are the ying and yang of software. couple things for maintainability, but beware of side effects. decouple things for flexibility, but beware of repetition",
+    "created_time": "2023-04-13T20:35:00.000Z",
+    "updated_time": "2023-04-16T08:42:00.000Z"
+  },
+  {
+    "id": "66d8738f-7d0a-4766-a05b-724896815f34",
+    "text": "there’s an increasing transient nature to digital content. most social platforms encourage sharing content that lives for a short period of time, before disappearing forever. it all started with Snapchat, then Instagram Stories and recently BeReal. not sure how i feel about this – are we losing precious digital memories?",
+    "created_time": "2023-04-16T19:07:00.000Z",
+    "updated_time": "2023-04-20T12:44:00.000Z"
+  },
+  {
+    "id": "be242224-ec74-40d0-a984-216b2cc2f227",
+    "text": "copy/duplication actions should discouraged in software. too many users creating infinite sources of truth. keeping every instance in sync is a nightmare. hurts the software, hurts the user",
+    "created_time": "2023-04-17T17:08:00.000Z",
+    "updated_time": "2023-04-17T23:59:00.000Z"
+  },
+  {
+    "id": "25c47333-185b-4584-bc6f-2301895769f2",
+    "text": "memories and emotions are so interconnected. experience something vividly – remember it forever",
+    "created_time": "2023-04-18T00:00:00.000Z",
+    "updated_time": "2023-04-18T00:01:00.000Z"
+  },
+  {
+    "id": "f1b096a4-1b58-4904-b62f-f81e6c9951fd",
+    "text": "i am quite sensitive to smell – and nothing beats new car smell",
+    "created_time": "2023-04-19T20:55:00.000Z",
+    "updated_time": "2023-05-24T13:43:00.000Z"
+  },
+  {
+    "id": "d8c7801a-bc8d-4b9b-bbe7-6b70029bcde9",
+    "text": "eagerly awaiting the day where we drop native apps for progressive web apps",
+    "created_time": "2023-04-20T12:15:00.000Z",
+    "updated_time": "2023-04-20T12:20:00.000Z"
+  },
+  {
+    "id": "319cf205-838c-4bd7-aaed-fb1e12963801",
+    "text": "the web is the best platform for software: ubiquitous, secure, public. not coupled to a specific OS, not controlled by a single company. search, link, share everywhere. compatible with any device. single codebase. it’s perfect",
+    "created_time": "2023-04-20T12:20:00.000Z",
+    "updated_time": "2023-04-20T12:34:00.000Z"
+  },
+  {
+    "id": "e9c9b7a2-0b69-43ce-8e80-0e061b545da8",
+    "text": "hard to accept, but a lot of what we believe is placebo. dogmas, rules & ways of living that don't really prove themselves; but don’t hurt either. believing in them isn’t always bad – ease of mind based on false beliefs is ok. but I believe this derives from a societal disease of not practicing scientific skepticism – trying to prove things wrong rather than right; questioning everything; being curious",
+    "created_time": "2023-04-20T19:13:00.000Z",
+    "updated_time": "2023-05-24T13:43:00.000Z"
+  },
+  {
+    "id": "0f6afcaa-70e1-445c-ad71-e542bbb5b374",
+    "text": "like we have password managers, we will have prompt managers. store your prompts in a secure, private place. ready to reuse on multiple environments. integrate with browsers, sync between devices. never remember a prompt again – just bring it in from a prompt manager",
+    "created_time": "2023-04-21T16:45:00.000Z",
+    "updated_time": "2023-04-21T16:52:00.000Z"
+  },
+  {
+    "id": "30a8e869-dded-46ac-bf26-b7c666199fb6",
+    "text": "my favorite character is ampersand. &. simple yet beautiful",
+    "created_time": "2023-04-21T19:47:00.000Z",
+    "updated_time": "2023-04-21T20:06:00.000Z"
+  },
+  {
+    "id": "64058467-3aa8-4ddb-ac61-d05621348fcd",
+    "text": "existential: nothing in life was created by you. not even yourself. we’re merely iterating on our past: everything we do is a product of our influences. ideas, thoughts we’ve been exposed to. but we have the power to build upon them and create something new",
+    "created_time": "2023-04-21T20:33:00.000Z",
+    "updated_time": "2023-04-22T20:12:00.000Z"
+  },
+  {
+    "id": "5a0d83a1-bc34-4da1-b1e6-857f9f9a4bc9",
+    "text": "very few platforms support unstructured writing. that sucks. our thoughts are unstructured by nature. why should our words be different? imposing writing patterns & rules is ok for final product, but i feel many incredible streams of consciousness are being wasted on artificial limitations",
+    "created_time": "2023-04-22T20:12:00.000Z",
+    "updated_time": "2023-04-22T20:21:00.000Z"
+  },
+  {
+    "id": "b8ce6e70-7959-41b9-a849-f26c00c56fe7",
+    "text": "transitioning from Windows to MacOS: command feels more ergonomic than control. slight movement of thumb vs hard reach with pinky. it’s definitely different",
+    "created_time": "2023-04-22T20:22:00.000Z",
+    "updated_time": "2023-04-22T20:33:00.000Z"
+  },
+  {
+    "id": "2d70152f-ec97-4534-ae9e-d0dc992090d0",
+    "text": "websites not accepting non-ASCII characters on name fields: it hurts my feelings not being able to enter my own name on a sign-up flow. i love my cedilla",
+    "created_time": "2023-04-23T15:43:00.000Z",
+    "updated_time": "2023-04-23T15:51:00.000Z"
+  },
+  {
+    "id": "5003599d-7164-4992-966c-22eba0b03f91",
+    "text": "intentionally avoiding structured learning (courses/tutorials) has been extremely helpful for me to learn things faster. usually, i now follow these steps: get a high level view on the subject to understand core concepts & ideas; see practical examples to understand applicability; create my own thing, asking questions along the process ",
+    "created_time": "2023-04-25T18:19:00.000Z",
+    "updated_time": "2023-04-25T18:31:00.000Z"
+  },
+  {
+    "id": "aa9a62b8-b328-46b1-bab1-046d10dc2647",
+    "text": "i’m extremely uncomfortable with abstractions i’m unable to dissect. if i don’t understand how something works, i lose sense of control. like i’m building on top of shaky, fragile knowledge. this always ends up making me lose too much time: either by trying too hard to grasp an existing abstraction; or trying to hard to create my own abstraction",
+    "created_time": "2023-04-27T12:15:00.000Z",
+    "updated_time": "2023-04-27T15:54:00.000Z"
+  },
+  {
+    "id": "6b010693-768e-45e3-a3ed-53be4c7be254",
+    "text": "everytime you do the same thing, it’s a missed opportunity to do something different",
+    "created_time": "2023-04-27T12:21:00.000Z",
+    "updated_time": "2023-04-27T12:21:00.000Z"
+  },
+  {
+    "id": "fc68bb1f-7b24-441f-b5bf-8cfa80c4c302",
+    "text": "having a positive mindset towards something (a task, activity, project) is half the battle won already. If you believe you will do it well, you most often do",
+    "created_time": "2023-04-28T09:32:00.000Z",
+    "updated_time": "2023-04-28T09:40:00.000Z"
+  },
+  {
+    "id": "879317f8-9366-4317-a976-08cf2fae167e",
+    "text": "gotta love a “nice touch”. something not needed, but someone goes the extra mile to make it happen. really makes a product/service shine",
+    "created_time": "2023-04-28T18:16:00.000Z",
+    "updated_time": "2023-10-08T16:50:00.000Z"
+  },
+  {
+    "id": "026872f3-5645-47a8-821e-17c4270a4085",
+    "text": "hover interactions are not a viable option for the web anymore. most users (>50%) are coming from mobile today. intersection observers are a great way to trigger a hover state, without a hover interaction – make an element stand out if it is currently displayed on the viewport",
+    "created_time": "2023-04-30T11:58:00.000Z",
+    "updated_time": "2023-04-30T12:12:00.000Z"
+  },
+  {
+    "id": "ca2fcee5-098d-4ac2-8f8f-904797ac8e2b",
+    "text": "to build a resilient & flexible system, you need iteration. it’s inevitable. a system can only prove its value when exposed to multiple different contexts. if it fails to adapt to a new context, it’s not a great system yet. as you iterate on multiple contexts, the system will progressively adapt to cover more edge cases, and patterns will start to emerge naturally. this takes time, effort and refactoring – you have to put in the work & not be afraid to break things in the process",
+    "created_time": "2023-05-02T15:10:00.000Z",
+    "updated_time": "2023-05-02T15:21:00.000Z"
+  },
+  {
+    "id": "ffe1e5ec-9418-4fd3-903a-7f42b56126a7",
+    "text": "there’s nothing like the smell of rain after a long, dry spell. so pleasant",
+    "created_time": "2023-05-03T15:03:00.000Z",
+    "updated_time": "2023-05-03T15:04:00.000Z"
+  },
+  {
+    "id": "6edc1d54-2d5c-4ff2-96bc-3fbfd797a11c",
+    "text": "i want more input but need more output",
+    "created_time": "2023-05-05T12:55:00.000Z",
+    "updated_time": "2023-05-07T10:35:00.000Z"
+  },
+  {
+    "id": "e0e7f5d0-e03e-41af-a8eb-7c903b0ed353",
+    "text": "can your personality be detached from your relationships? in the past i would say yes. eventually i realized that was naive & self-centered – people around me change my values & behavior a lot more than i’d like to admit",
+    "created_time": "2023-05-07T15:10:00.000Z",
+    "updated_time": "2023-05-14T17:03:00.000Z"
+  },
+  {
+    "id": "1504134b-a0a6-44b4-9435-d4da121adbaa",
+    "text": "emojis are such a dopamine hit",
+    "created_time": "2023-05-07T15:23:00.000Z",
+    "updated_time": "2023-05-12T14:49:00.000Z"
+  },
+  {
+    "id": "852f3efc-6cb2-4bda-9d1b-a8244874356b",
+    "text": "a good mindset shift is to define yourself inside out vs outside in. defining yourself by that you bring into the world, rather than what you take from it. a creation mindset – you are defined by what you create, not what you make use of",
+    "created_time": "2023-05-12T19:37:00.000Z",
+    "updated_time": "2023-05-14T17:03:00.000Z"
+  },
+  {
+    "id": "fe300fff-306c-47be-bd3f-ae49af0c5466",
+    "text": "alcohol is a negative trade-off. every time",
+    "created_time": "2023-05-14T17:02:00.000Z",
+    "updated_time": "2023-05-14T17:03:00.000Z"
+  },
+  {
+    "id": "80af441c-7056-49a1-a1bc-116bc7e7b5d9",
+    "text": "wondering about a matchmaking app where you match 1:1 with a person learning / curious about a similar subject. a mix of tinder + reddit",
+    "created_time": "2023-05-15T23:28:00.000Z",
+    "updated_time": "2023-05-15T23:42:00.000Z"
+  },
+  {
+    "id": "087ef36f-a5b8-4491-abe0-ec2185bcf19e",
+    "text": "burnout is often associated with working too much. i think the real reason it happens is because you have defined yourself by what you produce. it’s not just the exertion of energy spent during your working hours, but the exertion of thought spent during the time you’re not working",
+    "created_time": "2023-05-17T11:40:00.000Z",
+    "updated_time": "2023-05-17T11:46:00.000Z"
+  },
+  {
+    "id": "d9301e97-f1f8-4710-ae10-cae192a6ec0f",
+    "text": "humans should be more sexual and less sexualized",
+    "created_time": "2023-05-17T21:42:00.000Z",
+    "updated_time": "2023-05-17T21:43:00.000Z"
+  },
+  {
+    "id": "e59a7579-c72e-45ee-a488-9a09816fd398",
+    "text": "sometimes I wonder if value-for-value was the main pricing model. i.e. pay what you want – buyer sets the price instead of seller. if the value is created through the lens of the customer – would this push businesses to offer better products & services? it’s also really common for a buyer to overrate the value of something right after experiencing it, or using it for the first time. this means profit for the seller – win-win situation",
+    "created_time": "2023-05-17T21:47:00.000Z",
+    "updated_time": "2023-05-17T22:18:00.000Z"
+  },
+  {
+    "id": "efc10b02-3d7c-4820-b338-13ab2f885734",
+    "text": "folder-based structures are possibly the most inefficient way to organize digital knowledge. expensive to navigate, as you need to go through each & every layer. risk of duplication, as a file can exist in multiple folders with no global visibility. mentally taxing to work out when working with other people – everyone conceptualizes information layers differently. flat structures may seem chaotic at first, but they’re the way to go. auto-generated keywords & taxonomies can help fast discovery, and provide a passive way to organize knowledge with little active input required. only input needed is a search query – everything else works behind the scenes. a robust, well-implemented search will beat folder-based structures any day of the week",
+    "created_time": "2023-05-21T11:40:00.000Z",
+    "updated_time": "2023-05-22T23:42:00.000Z"
+  },
+  {
+    "id": "9e165b08-e3f5-413c-9e98-3ee0404ece99",
+    "text": "accept things you can’t change. take action when you can change things",
+    "created_time": "2023-05-22T23:42:00.000Z",
+    "updated_time": "2023-05-22T23:53:00.000Z"
+  },
+  {
+    "id": "9bee58ff-3beb-407a-b0bd-1ec405cbaaa4",
+    "text": "having a maximalist lifestyle (more is more) ultimately limits you from achieving mindful states",
+    "created_time": "2023-05-24T13:03:00.000Z",
+    "updated_time": "2023-05-24T13:39:00.000Z"
+  },
+  {
+    "id": "4b24540f-f9b3-434b-9765-3cac0002cd5a",
+    "text": "biggest pain point in diagramming is worrying about low-level, visual design decisions. i propose a diagramming tool that is extremely opinionated about these decisions. prevent me from spending useless time arranging nodes & connections, layout, spacing, sizing. every element falls into a predefined grid. user interaction is minimal – add, edit, delete. no pixel pushing allowed. this is the only way to make the user employ conceptual, high-level thinking",
+    "created_time": "2023-05-25T14:03:00.000Z",
+    "updated_time": "2023-05-25T14:17:00.000Z"
+  },
+  {
+    "id": "37ad9dee-d99b-493e-9b5d-a618bfb298d7",
+    "text": "LLM’s are proof the web is the most impactful modern invention",
+    "created_time": "2023-05-25T14:20:00.000Z",
+    "updated_time": "2023-05-25T14:22:00.000Z"
+  },
+  {
+    "id": "5884cc9d-46c2-4666-9063-a3eb1ad6b14b",
+    "text": "achieving brevity is a sign of clarity – you absorbed inputs, condensed them into single, manageable chunks of information, and produced short, concrete outputs",
+    "created_time": "2023-05-27T09:27:00.000Z",
+    "updated_time": "2023-05-27T17:13:00.000Z"
+  },
+  {
+    "id": "4b706989-e0b1-466a-a5fe-143294f40240",
+    "text": "best part of being human is how we are able to feel. our sensory experience – sight, sound, scent, taste, touch. specially, the way we construct meaning out of the senses. and how endless in exploration they are",
+    "created_time": "2023-05-27T17:02:00.000Z",
+    "updated_time": "2023-05-27T17:14:00.000Z"
+  },
+  {
+    "id": "624e715d-736e-4785-a2f1-a7fe5b66854b",
+    "text": "i’ve been noticing that my urge to create is heavily linked to my need for social validation. i don’t create for myself — i want people to perceive me as a creator. i want likes, shares, interactions. on one side, i’m happy to express my creativity in a social environment. i enjoy sharing my work in public. on another, i feel the need to cut down on social dopamine – easy to get lost in the feedback and forget your motivation",
+    "created_time": "2023-05-28T23:04:00.000Z",
+    "updated_time": "2023-10-08T16:48:00.000Z"
+  },
+  {
+    "id": "2a0f08d4-ca8d-4cc4-a99e-ee00270bcefd",
+    "text": "you’re never going to revisit those bookmarks. you’re never going to watch those videos later. you’re never going to read that reading list. we hoard content and convince ourselves that it will be useful. someday. sometime. reality, it never happens",
+    "created_time": "2023-05-31T20:18:00.000Z",
+    "updated_time": "2023-05-31T20:27:00.000Z"
+  },
+  {
+    "id": "a4cecafe-2f63-4cb6-8875-d1fcf25c5897",
+    "text": "i feel like talking about low-level, technical details is often (unfairly) frowned upon. mainly because high-level knowledge is considered more valuable – indicative that you have a holistic & clear overview of a thing. high-level knowledge, however, is not tangible. and alone, by itself, does not produce output. it is not an executable",
+    "created_time": "2023-06-02T11:12:00.000Z",
+    "updated_time": "2023-06-04T00:14:00.000Z"
+  },
+  {
+    "id": "9b202743-c64a-40dd-ac3c-26a8df308544",
+    "text": "being highly sociable is life’s cheat code. a big shortcut to success. but right now i’m refusing to take shortcuts. and that's a big mistake",
+    "created_time": "2023-06-04T00:09:00.000Z",
+    "updated_time": "2023-06-06T23:01:00.000Z"
+  },
+  {
+    "id": "b16ff279-8866-47ec-aed2-90e0b7bda671",
+    "text": "cables give me anxiety. on a complete disregard for basic physics, wish electricity could just float in the air and charge things around you. connect to energy like connecting to bluetooth or wifi",
+    "created_time": "2023-06-07T13:13:00.000Z",
+    "updated_time": "2023-06-07T13:16:00.000Z"
+  },
+  {
+    "id": "5311440c-ff16-406f-8628-51d9363709f9",
+    "text": "in a life stage of wanting things I don’t need, and needing things I don’t want",
+    "created_time": "2023-06-08T01:44:00.000Z",
+    "updated_time": "2023-06-08T01:46:00.000Z"
+  },
+  {
+    "id": "0097a2c5-a6e1-476e-9a98-93339ea78238",
+    "text": "i’ve just intellectualized colocation: the practice of keeping related items together based on their conceptual value. it applies both to the physical & digital world, and makes everything much more surfaceable – connected things become easy to find, use & manage. it also maps extremely well to how our brain works – a graph of related thoughts based on conceptual value",
+    "created_time": "2023-06-08T11:06:00.000Z",
+    "updated_time": "2023-06-09T01:04:00.000Z"
+  },
+  {
+    "id": "7c90d498-8ea8-451f-8930-6475d69a961d",
+    "text": "great software makes simple things easy and complex things possible",
+    "created_time": "2023-06-08T13:56:00.000Z",
+    "updated_time": "2023-06-11T17:42:00.000Z"
+  },
+  {
+    "id": "32bc3bf1-ca81-4fa4-8d79-fa806985def4",
+    "text": "ads have a conflicting nature. they target those who don't pay for premium products/services (which typically exclude ads). this means that companies using ads are mainly reaching low-income, price-sensitive individuals. ideally, companies would want to advertise their products to people with financial power to buy. essentially, the opposite type of consumer. it’s a contradiction",
+    "created_time": "2023-06-11T17:34:00.000Z",
+    "updated_time": "2023-06-11T17:42:00.000Z"
+  },
+  {
+    "id": "3a8fdff9-e449-407a-bb10-bb7fd34e139a",
+    "text": "reminder to be the one making the (seemingly) stupid questions. so much effort made pointless when you miss the primitives – what is this, why are we doing this, how is this done. difficult for the ego. but crucial to do things right",
+    "created_time": "2023-06-13T20:08:00.000Z",
+    "updated_time": "2023-06-15T23:02:00.000Z"
+  },
+  {
+    "id": "95fc55f8-53c9-4066-a66a-893508ff5385",
+    "text": "incremental change is the only effective change. trying to change too much, or too fast – doesn’t work",
+    "created_time": "2023-06-13T23:42:00.000Z",
+    "updated_time": "2023-06-15T23:02:00.000Z"
+  },
+  {
+    "id": "24ce1366-b146-4950-a1c1-304c993e1dab",
+    "text": "increasing reward can be more effective than reducing friction. tracking my runs made me realize this. ever since i got on Strava, i desperately want to hit the road again to beat my best time. the act of getting out and going for a run is the same – no friction reduced. however my reward system really enjoys watching the stats and keeping the streak",
+    "created_time": "2023-06-15T23:03:00.000Z",
+    "updated_time": "2023-06-15T23:11:00.000Z"
+  },
+  {
+    "id": "a230b652-1410-4067-96d5-708567135530",
+    "text": "optimal social group setting size is 6. just the right amount to have multiple (2 or 3) parallel conversations that you can easily transition between. still possible to 1:1 with everyone. not too draining on your social battery ",
+    "created_time": "2023-06-17T00:31:00.000Z",
+    "updated_time": "2023-06-18T17:50:00.000Z"
+  },
+  {
+    "id": "a873730c-bc67-499a-a9ee-9362621c2f82",
+    "text": "kinda cool how we can give human-like personality to machines through I/O behavior. fast I/O – energetic, impatient. slow I/O – calm, easy-going",
+    "created_time": "2023-06-18T17:45:00.000Z",
+    "updated_time": "2023-06-22T20:36:00.000Z"
+  },
+  {
+    "id": "4faad7b5-98e7-4c83-9b8d-2681ba30413d",
+    "text": "being capable of detaching reaction from event. so important. every experience you go through is an opportunity for growth – it all depends on the psychological frame you create around it. someone criticized you? missed a deadline? failed a task? think before you react. control your response. gain perspective on your emotions",
+    "created_time": "2023-06-22T20:38:00.000Z",
+    "updated_time": "2023-06-27T22:27:00.000Z"
+  },
+  {
+    "id": "24c5d043-9384-477a-8b17-52955a902c85",
+    "text": "everything in life is derived from our senses. senses are the human primitives. my goal is to explore them as deeply as I can",
+    "created_time": "2023-06-27T22:27:00.000Z",
+    "updated_time": "2023-06-27T22:29:00.000Z"
+  },
+  {
+    "id": "4f38eff5-b122-43c3-a830-92da43c23924",
+    "text": "customization is a losing game. it might feel good to tailor something to your own specific needs & preferences. however, every customization is a step away from common ground. with every customization, you get increasingly trapped into your own context – you lose the ability to be relatable. sticking to defaults is often the best choice. having a self-restraint posture towards customization is healthy",
+    "created_time": "2023-06-25T14:04:00.000Z",
+    "updated_time": "2023-06-27T22:27:00.000Z"
+  },
+  {
+    "id": "403a9c23-e533-41a5-b197-b7cd7fae30e4",
+    "text": "the shift to short & fast-paced content might have reduced our attention spans. but it definitely made content creators better at synthesizing information – focusing on the essential and cutting the extra",
+    "created_time": "2023-06-25T20:53:00.000Z",
+    "updated_time": "2023-06-27T22:17:00.000Z"
+  },
+  {
+    "id": "4adab8af-a5a9-4e86-b07a-bebd1cb193a1",
+    "text": "most important phase of knowledge acquisition is reflection. no matter how much information you cram into your brain – if you don’t stop to reflect, you don’t learn",
+    "created_time": "2023-06-27T21:53:00.000Z",
+    "updated_time": "2023-06-27T21:55:00.000Z"
+  },
+  {
+    "id": "19525e75-5055-41e7-ad0b-7b90f65ee0ac",
+    "text": "the world only lacks novelty if you lack curiosity",
+    "created_time": "2023-06-27T21:56:00.000Z",
+    "updated_time": "2023-06-28T13:13:00.000Z"
+  },
+  {
+    "id": "81fcfba4-81bb-4e49-bde0-5d884a5237cc",
+    "text": "it’s not enough for something (software, hardware) to work well. it needs to work reliably well. most products shine on optimal circumstances, and fail miserably on edge cases. reliability is covering those edge cases. make it work everytime",
+    "created_time": "2023-07-02T22:24:00.000Z",
+    "updated_time": "2023-07-05T21:43:00.000Z"
+  },
+  {
+    "id": "b02e39b3-16a1-48bb-b676-2f30e467c424",
+    "text": "if you avoid being too abstract or too specific – you achieve meaning",
+    "created_time": "2023-07-05T21:43:00.000Z",
+    "updated_time": "2023-07-05T21:44:00.000Z"
+  },
+  {
+    "id": "ba33059a-c63a-439e-b363-0b8a43cd2d78",
+    "text": "real technological progress lowers the bar and raises the ceiling",
+    "created_time": "2023-07-05T21:42:00.000Z",
+    "updated_time": "2023-07-06T19:16:00.000Z"
+  },
+  {
+    "id": "7d48bbc9-4613-4c12-ba48-8c8e987517f9",
+    "text": "doing what everyone does is usually a good decision",
+    "created_time": "2023-07-06T19:11:00.000Z",
+    "updated_time": "2023-07-11T22:39:00.000Z"
+  },
+  {
+    "id": "1749eb85-95e1-4194-b3df-b3387bff3a3c",
+    "text": "when analysing an object, I try not to see form & function as two separate entities. I see function as a pre-requisite for form. an aesthetically pleasing product must be be functional – if it does not work, it is not beautiful",
+    "created_time": "2023-07-09T20:02:00.000Z",
+    "updated_time": "2023-07-09T20:09:00.000Z"
+  },
+  {
+    "id": "2f108272-ac3f-4bd3-9322-97bd7652f4d7",
+    "text": "work should energize you, not drain you. and it’s possible to feel tired & energized at the same time – it means you’re working on something you really like",
+    "created_time": "2023-07-10T15:33:00.000Z",
+    "updated_time": "2023-07-11T19:41:00.000Z"
+  },
+  {
+    "id": "c4f59d4e-38fb-413f-9eef-1dd2e9673149",
+    "text": "art is the translation of human senses into human emotions",
+    "created_time": "2023-07-10T20:37:00.000Z",
+    "updated_time": "2023-07-11T22:51:00.000Z"
+  },
+  {
+    "id": "0ee46b99-3f87-4545-bd76-95d0812a3f51",
+    "text": "there is an intrinsic value on doing hard things. even if the single purpose is simply proving you can do them. it helps on self-perspective – if I achieved something really difficult in the past, anything that comes in the future will be easier. it helps on self-discipline – going through obstacles & persevering on a challenging context",
+    "created_time": "2023-07-12T11:18:00.000Z",
+    "updated_time": "2023-07-12T11:25:00.000Z"
+  },
+  {
+    "id": "0ceb36b0-c66d-420f-ac66-876bc6c2207b",
+    "text": "life pro tip: under-promise, over-deliver",
+    "created_time": "2023-07-13T18:17:00.000Z",
+    "updated_time": "2023-07-19T19:36:00.000Z"
+  },
+  {
+    "id": "5e116083-9ace-45f9-b22d-cf0e455086e9",
+    "text": "i really don’t like to push away divergent thinking – letting your mind wander & jump around (seemingly) unrelated ideas. you discover connections you don’t know existed. but there’s a time and place for it. a focused, directed discussion is impossible when all you do is jump around different topics. your point does not get across if you constantly lose yourself (and others) in the process. so, you got to understand the context and switch thinking mode accordingly",
+    "created_time": "2023-07-17T16:33:00.000Z",
+    "updated_time": "2023-07-24T23:30:00.000Z"
+  },
+  {
+    "id": "5e0620d4-197d-4f5d-8f9d-652110324304",
+    "text": "external validation feels great when tackling a hard decision. you know your options, you have your perspective – but it’s such a boost when someone from the outside validates your view. just the little bump you need to move forward",
+    "created_time": "2023-07-25T13:44:00.000Z",
+    "updated_time": "2023-07-25T14:27:00.000Z"
+  },
+  {
+    "id": "fcba279a-16e0-40ad-9f4e-7d9f54f9ed90",
+    "text": "i feel the 20s are the crucial stage to develop good life habits. lot of empowerment to make decisions. still locked in into fixed mental models of reality. plenty of psychological & physical capacity. you can change it later – but if you miss it in the 20s you’re definitely a step back",
+    "created_time": "2023-07-25T14:33:00.000Z",
+    "updated_time": "2023-07-26T19:46:00.000Z"
+  },
+  {
+    "id": "d7d294d6-cb6e-4dff-98b7-8911082bb135",
+    "text": "solving problems is an illusion. we just escalate them to an higher level. as in, our problems today are much softer, more detached from human nature – we don’t struggle for food. but we struggle to focus. each problem you solve creates a new, “better” one. but there will always be problems to solve",
+    "created_time": "2023-07-26T19:46:00.000Z",
+    "updated_time": "2023-07-27T18:21:00.000Z"
+  },
+  {
+    "id": "d627555b-dcc8-4ee8-8d21-4e3447228398",
+    "text": "doing nothing is not doing nothing",
+    "created_time": "2023-07-27T22:55:00.000Z",
+    "updated_time": "2023-07-27T22:55:00.000Z"
+  },
+  {
+    "id": "e8327ebe-3902-4f1b-a4b3-e2fe4652d244",
+    "text": "very easy to be a passenger in your own life with the amount of content you’re unwillingly exposed to every day. so many distractions you don’t need (but want)",
+    "created_time": "2023-07-28T13:27:00.000Z",
+    "updated_time": "2023-07-28T13:28:00.000Z"
+  },
+  {
+    "id": "dea4a453-fb37-46b4-b80f-b0a3a5443f37",
+    "text": "my mindset on jobs/careers – you should either learn or earn. both is best. if none, quit",
+    "created_time": "2023-07-30T18:11:00.000Z",
+    "updated_time": "2023-07-30T18:11:00.000Z"
+  },
+  {
+    "id": "18ef4d84-b70e-4f37-ae40-1e92a399d584",
+    "text": "best apps are the ones you install – get something done – uninstall. high utility to usage time",
+    "created_time": "2023-07-30T20:08:00.000Z",
+    "updated_time": "2023-07-30T20:10:00.000Z"
+  },
+  {
+    "id": "6e055e72-b159-4d05-bd9f-f26565bcd1d0",
+    "text": "need to become more self-centered. I have an incredible drive for self-growth, but too often i put others in front of my objectives. this is because i derive a lot of pleasure on pleasing others. but ultimately, it brings me nothing. put myself first, always. i am the most important person in my life",
+    "created_time": "2023-08-01T22:37:00.000Z",
+    "updated_time": "2023-08-01T22:45:00.000Z"
+  },
+  {
+    "id": "2eae39d0-60c9-43e2-a548-11d3c588b83d",
+    "text": "mixed feelings about the “everything is a subscription” paradigm we live in. every product & service made a recurring transaction instead of one-time buy – it’s a strange kind of ownership",
+    "created_time": "2023-08-04T14:08:00.000Z",
+    "updated_time": "2023-08-10T20:13:00.000Z"
+  },
+  {
+    "id": "8343ff0e-5d9a-4234-894f-58bdcae2135c",
+    "text": "user reviews are misleading – different users have different expectations on different contexts. makes it difficult to accurately know the value of a product or service",
+    "created_time": "2023-08-05T12:39:00.000Z",
+    "updated_time": "2023-08-10T00:17:00.000Z"
+  },
+  {
+    "id": "da937b71-430a-4974-8d1a-925f267cbd69",
+    "text": "starting to see obsessive behavior as a very strong signal to depression. you get locked in a life goal, a single purpose for your life. very easy for your world to fall apart when you miss it. and very hard for someone to bring you out of the obsession",
+    "created_time": "2023-08-10T00:18:00.000Z",
+    "updated_time": "2023-08-10T20:12:00.000Z"
+  },
+  {
+    "id": "89928a16-c12d-4b5f-8d03-d9abed90c4ce",
+    "text": "knowing what not to do is more helpful than knowing what to do. by not doing, you create opportunity for doing different & better. by not doing what’s wrong, you guide yourself to doing what’s right",
+    "created_time": "2023-08-12T08:56:00.000Z",
+    "updated_time": "2023-08-13T13:01:00.000Z"
+  },
+  {
+    "id": "fa1b0956-189b-4c00-87e7-da0ec410ecb1",
+    "text": "saying no is a functional requirement to saying yes",
+    "created_time": "2023-08-12T09:06:00.000Z",
+    "updated_time": "2023-11-05T21:29:00.000Z"
+  },
+  {
+    "id": "bddb7254-6676-47b9-a0d5-ae98209f16d2",
+    "text": "naming a concept is a really powerful way to internalize it",
+    "created_time": "2023-08-13T05:08:00.000Z",
+    "updated_time": "2023-08-13T13:12:00.000Z"
+  },
+  {
+    "id": "a16708ec-14ee-4459-abbe-8f27ec5cd5bf",
+    "text": "fastest way to solve a problem is to externalize it – writing or talking it out. translating thoughts to words exposes hidden assumptions, and gaps in reasoning become evident",
+    "created_time": "2023-08-13T05:08:00.000Z",
+    "updated_time": "2023-08-15T19:02:00.000Z"
+  },
+  {
+    "id": "687b7996-d510-4625-8e26-e2b85d1f7037",
+    "text": "metadata is as important as data. photos are worth not only for the pixels – but when, where & how those pixels are captured",
+    "created_time": "2023-08-14T14:39:00.000Z",
+    "updated_time": "2023-08-15T19:02:00.000Z"
+  },
+  {
+    "id": "4505512e-d7d2-4ebf-9097-5cac416c256c",
+    "text": "traditional learning is really ineffective. structured courses often impose a single learning path, with a well-defined start & end. this removes initiative and awareness from the student to create their own learning path, and follow their unique interest graph. also, single teacher-student relationships fall incredibly short at providing different perspectives over the same topics. while a good teacher might have a great take on a subject, it’s only when you absorb multiple perspectives that you start to really “get it”",
+    "created_time": "2023-08-16T21:56:00.000Z",
+    "updated_time": "2023-08-16T22:19:00.000Z"
+  },
+  {
+    "id": "d09cc841-00b8-4f05-adc8-7a519861fab1",
+    "text": "overthinking is a combo of procrastination + anxiety",
+    "created_time": "2023-08-17T19:56:00.000Z",
+    "updated_time": "2023-08-19T14:10:00.000Z"
+  },
+  {
+    "id": "705a299a-be59-4ae3-beb6-8a89bea0ba31",
+    "text": "i've been taking cold showers and thinking how you can derive pleasure from displeasure",
+    "created_time": "2023-08-19T14:01:00.000Z",
+    "updated_time": "2023-08-19T14:11:00.000Z"
+  },
+  {
+    "id": "a6b6cffe-8a6d-49a6-b68e-8a931209a180",
+    "text": "i’m often late because I’m constantly trying to maximize time. extracting every productive second out of my life. it’s a narcissistic trait – i value my time more than the other person’s time",
+    "created_time": "2023-08-19T14:10:00.000Z",
+    "updated_time": "2023-08-20T20:31:00.000Z"
+  },
+  {
+    "id": "8197b714-af3e-4e94-bad5-9d26ff8db0ac",
+    "text": "can’t stand toxic one-up culture",
+    "created_time": "2023-08-20T01:14:00.000Z",
+    "updated_time": "2023-08-20T20:32:00.000Z"
+  },
+  {
+    "id": "8bab0624-e3d6-4f40-917d-d3ef03cb0076",
+    "text": "premature optimization is my nemesis. extremely tempting to over-engineer structures if you know their edge case behaviors. to avoid bad behaviors, you optimize for them from the start. it’s a decision driven by fear rather than rationality – edge cases are rare but you fear them",
+    "created_time": "2023-08-24T12:08:00.000Z",
+    "updated_time": "2023-08-24T12:13:00.000Z"
+  },
+  {
+    "id": "c13c882b-d736-4a16-b590-a673bf34cccf",
+    "text": "developing a passion for the slightly assymetric. symmetry is boring – nudging things just enough is interesting & intentional",
+    "created_time": "2023-08-24T14:05:00.000Z",
+    "updated_time": "2023-08-24T14:06:00.000Z"
+  },
+  {
+    "id": "70f5f7ca-5dd6-46dc-8775-6d071ac6e842",
+    "text": "i'm noticing a pattern with underperforming teams – self-bias. everyone is running on internal ego boosts and positive self-reinforcement. this generates low awareness of actual value, and increases gap between performance and perceived performance",
+    "created_time": "2023-08-26T19:40:00.000Z",
+    "updated_time": "2023-08-27T21:11:00.000Z"
+  },
+  {
+    "id": "b16e00a2-a9b0-4eb8-ad14-ca17fda75177",
+    "text": "friction adds texture",
+    "created_time": "2023-08-26T21:06:00.000Z",
+    "updated_time": "2023-09-03T21:05:00.000Z"
+  },
+  {
+    "id": "a7ea959c-7579-4d2a-bf86-4bf1e000713a",
+    "text": "the right person at the wrong time is the wrong person",
+    "created_time": "2023-08-27T17:43:00.000Z",
+    "updated_time": "2023-08-27T20:59:00.000Z"
+  },
+  {
+    "id": "fa26145c-2367-4a95-a585-888b6461b3c7",
+    "text": "you control your actions. you don’t control the reactions",
+    "created_time": "2023-08-27T21:14:00.000Z",
+    "updated_time": "2023-09-03T21:02:00.000Z"
+  },
+  {
+    "id": "06acbbc9-d449-48e1-976e-9b5c0426749f",
+    "text": "don’t talk unless you can improve the silence",
+    "created_time": "2023-08-29T18:57:00.000Z",
+    "updated_time": "2023-08-29T18:57:00.000Z"
+  },
+  {
+    "id": "8474fe8f-b3c4-4574-a346-f4427496b9b2",
+    "text": "at the moment i can’t conceive the idea of having kids. however at some point i will either: love myself so much that i want to make a new version of me; love someone so much that i want to make a new version of them. maybe both. but for now i will enjoy my freedom",
+    "created_time": "2023-08-30T20:11:00.000Z",
+    "updated_time": "2023-09-03T21:02:00.000Z"
+  },
+  {
+    "id": "d74f6cc1-5be6-499e-be1c-083526c8270d",
+    "text": "so much imperative teaching out there – do x, do y, to get z. highly focused on getting you through the steps fast, rather than explaining the process. i lost a lot of time “learning” that way in the past. taking the longer path, understanding the process and reasoning about it, is the way to learn. no shortcuts",
+    "created_time": "2023-09-03T21:05:00.000Z",
+    "updated_time": "2023-09-03T21:14:00.000Z"
+  },
+  {
+    "id": "f1a5af20-1301-43e2-9aaf-d7967f8e9d68",
+    "text": "tools abstract primitives. learn primitives, not tools",
+    "created_time": "2023-09-03T21:07:00.000Z",
+    "updated_time": "2023-09-04T15:00:00.000Z"
+  },
+  {
+    "id": "d8e11895-7150-44f5-bd1a-588ba2d511ac",
+    "text": "valuable friends are not afraid of hitting you with a different opinion. a different perspective. not afraid of making you change your mind. low agreeableness, high reasoning. those are the friends you should seek",
+    "created_time": "2023-09-06T17:04:00.000Z",
+    "updated_time": "2023-09-06T17:12:00.000Z"
+  },
+  {
+    "id": "1a78ec92-325e-4a15-8498-fc86b28644b9",
+    "text": "everyone is ghosting someone. it’s a never-ending chain",
+    "created_time": "2023-09-09T18:33:00.000Z",
+    "updated_time": "2023-09-09T18:34:00.000Z"
+  },
+  {
+    "id": "36d00064-dc8a-46bf-9458-0b00780f49d3",
+    "text": "one of my most used heuristics is reducing external dependencies. adopting a mindset of reducing any external inputs you need to reach a desired output. this allows you to change context or environment without affecting the end result – it improves your flexibility & adaptability",
+    "created_time": "2023-09-09T18:36:00.000Z",
+    "updated_time": "2023-09-10T12:59:00.000Z"
+  },
+  {
+    "id": "4ac183df-0d9e-4cb4-95d8-a6cc48ffeb05",
+    "text": "if everyone has the same opinion, no one has an opinion",
+    "created_time": "2023-09-10T16:04:00.000Z",
+    "updated_time": "2023-09-10T16:04:00.000Z"
+  },
+  {
+    "id": "db1afcd3-6a9b-4914-a6ce-fb00064c1c70",
+    "text": "been thinking about how friendships emerge – it’s all about synced novelty. being exposed to multiple new environments with someone, 1:1. sharing new experiences – good & bad – together. developing new mutual interests, rooted on mutual personal values",
+    "created_time": "2023-09-10T16:00:00.000Z",
+    "updated_time": "2023-09-10T16:09:00.000Z"
+  },
+  {
+    "id": "f21a1c77-2867-4437-a164-aadbd6d5aacf",
+    "text": "either too tired to think, or too tired of thinking",
+    "created_time": "2023-09-12T22:48:00.000Z",
+    "updated_time": "2023-09-16T01:04:00.000Z"
+  },
+  {
+    "id": "2aa5fcec-66ee-4188-98d4-aa2727b8f9a5",
+    "text": "learn by teaching",
+    "created_time": "2023-09-17T07:39:00.000Z",
+    "updated_time": "2023-09-20T23:52:00.000Z"
+  },
+  {
+    "id": "5e26a8e0-c460-407c-974c-96b0a061aac5",
+    "text": "having multiple identities is making me feel inauthentic. a sense of internal & external disconnection – i’m not true to myself, so how can i be true to someone else? but i'm making an effort to change this. converge my identity on my core values, beliefs & goals. striving for consistency on how i present myself – both offline and online. express my real emotions & opinions – not afraid to be unpleasing. be the real me",
+    "created_time": "2023-09-20T23:54:00.000Z",
+    "updated_time": "2023-09-21T23:29:00.000Z"
+  },
+  {
+    "id": "8494e152-d001-47d9-a626-fc8fcc57c220",
+    "text": "being the fire of the party is exhausting. you don't have to be the fire of the party to have fun. sometimes having fun is going to sleep. just go to sleep",
+    "created_time": "2023-09-21T23:28:00.000Z",
+    "updated_time": "2023-09-21T23:31:00.000Z"
+  },
+  {
+    "id": "e29d83d4-c68b-47ae-b81b-6fcebef13e9d",
+    "text": "lack of individual & collective responsibilization is the bottleneck of a team. everyone knows what’s wrong, but everyone refuses to say something. progression is unattainable, because mistakes are persisted",
+    "created_time": "2023-09-21T23:31:00.000Z",
+    "updated_time": "2023-09-21T23:37:00.000Z"
+  },
+  {
+    "id": "4267c87a-1d03-435e-a2dd-fdb34583cf86",
+    "text": "avoid getting stuck in the details. try a solution – if it doesn't work, stop. change perspective. approach it from a different angle. this is the key ingredient to efficient problem solving",
+    "created_time": "2023-09-23T01:33:00.000Z",
+    "updated_time": "2023-09-23T01:36:00.000Z"
+  },
+  {
+    "id": "3d1344f1-c75a-4e06-8609-cb0edbd91c22",
+    "text": "realizing i spent a lot of time learning music the wrong way. a lot of teaching is focused on giving you highly applicable snippets: cool chords, pentatonic scales, neo-soul progressions. you memorize these snippets for one song, one context; and you’re unable export that knowledge elsewhere. this is the wrong way. the right way is conceptual relations first: how each chord functions in a progression, how each note functions in a chord. high-level abstraction, over knowing what finger goes on what key/fret",
+    "created_time": "2023-09-27T13:08:00.000Z",
+    "updated_time": "2023-09-27T13:41:00.000Z"
+  },
+  {
+    "id": "b7ae8035-301e-49c0-9639-4dd1789a67a9",
+    "text": "the more low-level customization a product has, the less efficient it is. giving freedom to your users is not about letting me change colors, fonts, etc. it’s about getting the task done. to get a task done, you have to guide their focus to the meaningful, impactful actions. be opinionated about the non-relevant details. liberate users to think about what is relevant. less customization leads to more focus. you want to give focus, not freedom",
+    "created_time": "2023-09-27T18:07:00.000Z",
+    "updated_time": "2023-09-27T18:51:00.000Z"
+  },
+  {
+    "id": "b40febec-d1ec-4c77-8302-898a3d1d6ef6",
+    "text": "i don’t have a favorite season. it’s not about each season in isolation; but how the seasons flow into each other. winter to spring, spring to summer, summer to autumn, autumn to winter — nature’s rhythmic dance",
+    "created_time": "2023-09-27T18:51:00.000Z",
+    "updated_time": "2023-10-08T16:58:00.000Z"
+  },
+  {
+    "id": "dcedf762-2d4c-4dd4-adb3-fcb3f4f40de4",
+    "text": "examples can make abstract concepts more concrete and understandable. they increase the sense of applicability. but when you tie a concept to a specific scenario, you lose the potential for nuance. the definition becomes the application",
+    "created_time": "2023-09-28T08:30:00.000Z",
+    "updated_time": "2023-10-31T20:27:00.000Z"
+  },
+  {
+    "id": "4a7cb8aa-cbd0-4b5d-8bb2-fd5b1a9d0a55",
+    "text": "contemplating ocean tides — moon’s gravitational pull really puts your concept of gravity in perspective",
+    "created_time": "2023-09-28T18:56:00.000Z",
+    "updated_time": "2023-10-10T18:58:00.000Z"
+  },
+  {
+    "id": "26b57c8c-44d2-4345-b91b-991490a11974",
+    "text": "you don’t learn by doing. you learn by thinking about what you’ve done",
+    "created_time": "2023-09-29T07:49:00.000Z",
+    "updated_time": "2023-10-01T23:11:00.000Z"
+  },
+  {
+    "id": "a50c0272-fe94-44c9-95c5-671711e94e74",
+    "text": "having good discourse is about keeping a single, non-divergent flow. if you diverge too much you don't get your point across. guide the listener through a single, coherent idea; a sequential train of thought. and keep it simple – no need to be eloquent",
+    "created_time": "2023-09-29T12:32:00.000Z",
+    "updated_time": "2023-10-03T21:55:00.000Z"
+  },
+  {
+    "id": "87d73e71-08ac-4f92-b3aa-2b2451695e36",
+    "text": "i visualize learning as continuous, upward spiral. you revisit the same concept multiple times, but each time your revisit it, you go one level up. you gain a deeper understanding. maybe because you approached from a new point of view. maybe because you approached it with a refreshed mindset",
+    "created_time": "2023-09-30T13:02:00.000Z",
+    "updated_time": "2023-09-30T13:11:00.000Z"
+  },
+  {
+    "id": "19797f02-e296-436c-abaf-49b3f5034c01",
+    "text": "people obsess over macOS vs windows, android vs iOS, while the underlying technology is fundamentally the same",
+    "created_time": "2023-09-30T21:27:00.000Z",
+    "updated_time": "2023-10-08T17:03:00.000Z"
+  },
+  {
+    "id": "6564d31e-c8af-4529-aa42-82f2acd32a85",
+    "text": "having one of those transformational discovery nights – learning new knowledge that breaks my brain. in a good way",
+    "created_time": "2023-10-03T21:42:00.000Z",
+    "updated_time": "2023-10-03T21:43:00.000Z"
+  },
+  {
+    "id": "5ed40907-6c31-4198-9327-3c48307e57c4",
+    "text": "kickstarting a new idea is all about unstructured thinking. create a collection of inconsistent & incoherent thoughts — every thought is valid. let structure emerge from chaos",
+    "created_time": "2023-10-08T16:18:00.000Z",
+    "updated_time": "2023-10-08T16:44:00.000Z"
+  },
+  {
+    "id": "22a836ad-dcf1-4bc7-b882-9ba5139a2cef",
+    "text": "i often get the urge to reboot — start things over, rebuild a system from scratch. happens a lot when i feel i’ve gotten better at something; i acquired new knowledge and want to apply it. it’s so satisfying to start from a clean slate. a blank canvas. emptiness. absence of entropy. but starting over is rarely the best decision. it takes a lot more work to rebuild rather than refactor, and having the mental flexibility to work around existing imperfections is a huge quality trait",
+    "created_time": "2023-10-09T08:36:00.000Z",
+    "updated_time": "2023-10-09T14:09:00.000Z"
+  },
+  {
+    "id": "0c8df83a-c99f-40a4-9ec0-cb18308a1832",
+    "text": "to learn faster: increase repetition, decrease duration. do something more often, for less time",
+    "created_time": "2023-10-09T14:01:00.000Z",
+    "updated_time": "2023-10-09T14:04:00.000Z"
+  },
+  {
+    "id": "d6dfb741-b624-4277-b2e4-bc580493f7b6",
+    "text": "something i learned this year: money means nothing if you’re sacrificing mental / physical health",
+    "created_time": "2023-10-10T22:44:00.000Z",
+    "updated_time": "2023-10-10T22:44:00.000Z"
+  },
+  {
+    "id": "5ca446cd-2577-4426-8be2-f2ae1a4a6b2e",
+    "text": "the prerequisite of having a romantic relationship to live together is weird. an intense & intimate emotional  connection with someone makes it incredibly more difficult to have a stable, relaxed, independent living space. a living partner should be someone you match at a platonic level",
+    "created_time": "2023-10-11T06:24:00.000Z",
+    "updated_time": "2023-10-11T11:35:00.000Z"
+  },
+  {
+    "id": "bd847521-fada-4d2d-bc34-420f5f7c471a",
+    "text": "graphs over trees",
+    "created_time": "2023-10-11T11:36:00.000Z",
+    "updated_time": "2023-10-11T11:36:00.000Z"
+  },
+  {
+    "id": "27c87c3f-7129-4079-99d4-0a30ea1291eb",
+    "text": "explore at low level. execute at high level",
+    "created_time": "2023-10-11T06:56:00.000Z",
+    "updated_time": "2023-10-12T16:07:00.000Z"
+  },
+  {
+    "id": "65dbef29-dd35-44d6-9445-a9525796127e",
+    "text": "work should feel like taking a break and taking a break should feel like work",
+    "created_time": "2023-10-14T12:26:00.000Z",
+    "updated_time": "2023-10-17T23:17:00.000Z"
+  },
+  {
+    "id": "60ba454c-8c78-4aa6-bb8e-41874b73b82e",
+    "text": "embarking in meaningful projects with other people is risky. often i pour too much energy, take too much initiative — on something that isn’t mine",
+    "created_time": "2023-10-15T19:09:00.000Z",
+    "updated_time": "2023-10-15T22:39:00.000Z"
+  },
+  {
+    "id": "3f871b48-50cb-4981-ac69-522baee431f5",
+    "text": "you can have a complex UI if you have keyboard shortcuts",
+    "created_time": "2023-10-15T19:40:00.000Z",
+    "updated_time": "2023-10-15T23:03:00.000Z"
+  },
+  {
+    "id": "2121451d-f281-4d42-9096-9349ec38b269",
+    "text": "great tools give you intuition about how they work — without making you understand their technical details",
+    "created_time": "2023-10-15T23:04:00.000Z",
+    "updated_time": "2023-10-15T23:05:00.000Z"
+  },
+  {
+    "id": "9dcdbd67-21fa-4545-8c17-e6fd083f6c54",
+    "text": "humans connect by living strong emotions together. going through an emotionally charged situation makes you vulnerable, open up, together. it’s a firestarter to deeper mutual understanding, as you uncover a new side to each other. the prerequisite here is being able to express your emotions — being transparent, having a clear window to your soul. the stronger the connection you have with yourself, the stronger the connection you will have with others",
+    "created_time": "2023-10-17T22:47:00.000Z",
+    "updated_time": "2023-10-18T22:14:00.000Z"
+  },
+  {
+    "id": "7cc8b4db-0ded-417d-a129-7e792af99793",
+    "text": "naming things is incredibly relevant but also incredibly irrelevant",
+    "created_time": "2023-10-19T17:16:00.000Z",
+    "updated_time": "2023-10-19T17:16:00.000Z"
+  },
+  {
+    "id": "5139a1bc-8661-48d7-a6ff-8020bdf410cf",
+    "text": "every fix has a window of change. a time window in which you are aware of an issue, and willing to take action on it. if you don’t take action, you become increasingly indifferent to it — you adapt, find a workaround, and avoid the issue instead of fixing it",
+    "created_time": "2023-10-22T13:09:00.000Z",
+    "updated_time": "2023-10-22T13:30:00.000Z"
+  },
+  {
+    "id": "af29163b-9957-4354-b0f0-4f29e320546e",
+    "text": "having a strong personality is not so much about having a unique behavior. but more about not changing your behavior based on your surroundings. this is why being highly agreeable is an issue — you’re not able to have a strong personality, because you change your behavior to avoid social conflict",
+    "created_time": "2023-10-22T13:30:00.000Z",
+    "updated_time": "2023-10-22T13:37:00.000Z"
+  },
+  {
+    "id": "f46f3942-a173-440f-b506-bb737ef0cad2",
+    "text": "i believe there is a beauty threshold for romantic love. you need to feel high level of aesthetic attraction to someone to develop a romantic relationship. the level of attraction may increase as you get to know each other, but it needs to be there from the start. otherwise, friends only — which is fine",
+    "created_time": "2023-10-24T23:29:00.000Z",
+    "updated_time": "2023-10-24T23:42:00.000Z"
+  },
+  {
+    "id": "05e78cc4-b5cf-4107-a704-12931afd01d1",
+    "text": "if you can't be confident, be vulnerable",
+    "created_time": "2023-10-24T23:43:00.000Z",
+    "updated_time": "2023-10-24T23:43:00.000Z"
+  },
+  {
+    "id": "2667abe7-dc1c-4cc9-823f-53ec270cc50f",
+    "text": "perfect is boring. imperfection is beautiful",
+    "created_time": "2023-10-24T23:43:00.000Z",
+    "updated_time": "2023-10-27T00:52:00.000Z"
+  },
+  {
+    "id": "9cfe7daa-4060-47ed-9682-5dcdf3140887",
+    "text": "3 is the perfect number for decision-making. does not force you into a dichotomy, while keeping options to a minimum",
+    "created_time": "2023-10-27T17:53:00.000Z",
+    "updated_time": "2023-11-01T23:22:00.000Z"
+  },
+  {
+    "id": "d397b833-274e-4c0a-9251-c01c75dab6c2",
+    "text": "self-awareness is revealed by having a strong rationale behind every decision. you leave nothing to chance. everything is deliberate",
+    "created_time": "2023-11-01T23:05:00.000Z",
+    "updated_time": "2023-11-01T23:22:00.000Z"
+  },
+  {
+    "id": "cbef12d5-f286-4dff-9366-9148533697d0",
+    "text": "the real anxiety trigger is guessing if “Enter“ will send the message or create a newline",
+    "created_time": "2023-11-02T09:28:00.000Z",
+    "updated_time": "2023-11-02T20:56:00.000Z"
+  },
+  {
+    "id": "c7efea3b-887e-4d41-bd6a-e3639dee959b",
+    "text": "don’t be dishonest on your compromise. don’t make me expect more than you can give. align your words with your actions",
+    "created_time": "2023-11-02T20:48:00.000Z",
+    "updated_time": "2023-11-02T20:56:00.000Z"
+  },
+  {
+    "id": "f3ac4002-46f7-47d2-8545-1a5bf456ea4c",
+    "text": "the ability to sense patterns in complex systems is the best proxy for intelligence",
+    "created_time": "2023-11-02T20:58:00.000Z",
+    "updated_time": "2023-11-02T21:00:00.000Z"
+  },
+  {
+    "id": "7bf0bcc7-3aad-4f8c-85f5-082ae9760bea",
+    "text": "sometimes innovation is not achieved by bringing something new into the world – but rather removing from it. setting constraints on existing systems – limiting the number of options, taking out the excess. constraints are a form of innovation, as they help define patterns – ultimately helping humans see clearly",
+    "created_time": "2023-11-03T22:41:00.000Z",
+    "updated_time": "2023-11-03T22:50:00.000Z"
+  },
+  {
+    "id": "0fa3c8e6-f6ab-4629-913d-f3c92273273e",
+    "text": "wingin’it",
+    "created_time": "2023-11-04T22:00:00.000Z",
+    "updated_time": "2023-11-04T22:00:00.000Z"
+  },
+  {
+    "id": "f9ff5b20-8036-4620-82da-08d6df4577ab",
+    "text": "had multiple omg moments using Raycast for the first time yesterday",
+    "created_time": "2023-11-05T10:33:00.000Z",
+    "updated_time": "2023-11-05T10:35:00.000Z"
+  },
+  {
+    "id": "5bc291a0-7fef-4b54-ba35-dc00369ed1c5",
+    "text": "use the standard. explore the modern",
+    "created_time": "2023-11-05T12:04:00.000Z",
+    "updated_time": "2023-11-05T12:04:00.000Z"
+  },
+  {
+    "id": "2b0e589b-316b-4568-be50-84030e65747e",
+    "text": "by opting in on something, you're opting out of something else. priorities are key",
+    "created_time": "2023-11-05T21:29:00.000Z",
+    "updated_time": "2023-11-05T21:31:00.000Z"
+  },
+  {
+    "id": "b5fa8d7f-2e10-4b2c-8b38-b29aa56bbfd4",
+    "text": "the best interface is no interface. infer user needs. predict user behavior. remove interface layers to achieve user goals. until UI (user interface) becomes UI (universal interface)",
+    "created_time": "2023-11-07T20:48:00.000Z",
+    "updated_time": "2023-11-07T20:52:00.000Z"
+  },
+  {
+    "id": "3903d345-5ca3-41ce-9f0a-8827a03e6abc",
+    "text": "people before pixels",
+    "created_time": "2023-11-11T10:58:00.000Z",
+    "updated_time": "2023-11-11T10:58:00.000Z"
+  },
+  {
+    "id": "b29c623e-8cd1-4d04-87f8-d7039845d983",
+    "text": "neglecting local & physical social relationships is a mistake I’ve made for too long. i feel stuck in parasocial, digital relationships. following people you admire online is great for perspective. but ultimately, in-person relationships create the biggest impact",
+    "created_time": "2023-11-11T16:41:00.000Z",
+    "updated_time": "2023-11-11T16:51:00.000Z"
+  },
+  {
+    "id": "6788e7db-446c-44bd-8048-2a7acae07223",
+    "text": "banana & cheese underrated combo",
+    "created_time": "2023-11-11T17:03:00.000Z",
+    "updated_time": "2023-11-18T22:27:00.000Z"
+  },
+  {
+    "id": "5471c79c-90da-4119-bb04-98b288aef318",
+    "text": "obsession wins over talent",
+    "created_time": "2023-11-14T18:52:00.000Z",
+    "updated_time": "2023-11-14T18:52:00.000Z"
+  },
+  {
+    "id": "f7c1410a-3bac-478c-9bf2-d2e4f3159b0b",
+    "text": "it’s hard to get answers if you don’t stop making questions",
+    "created_time": "2023-11-15T16:52:00.000Z",
+    "updated_time": "2023-11-15T16:52:00.000Z"
+  },
+  {
+    "id": "976bb572-ec0c-4d7f-9bde-9744f1dd1d0c",
+    "text": "denial and acceptance are both bad mindsets. you’re either rejecting reality, or coping with it",
+    "created_time": "2023-11-15T00:00:00.000Z",
+    "updated_time": "2023-11-18T22:27:00.000Z"
+  },
+  {
+    "id": "8c261a97-6cf8-444e-a39c-6c69e44b7e53",
+    "text": "when starting an argument with someone, i make this simple question: are you willing to change your mind? 9/10 you will get silence. that means you should not start the argument",
+    "created_time": "2023-11-17T12:50:00.000Z",
+    "updated_time": "2023-11-18T22:27:00.000Z"
+  },
+  {
+    "id": "5c859f2d-f8ae-431d-8721-a61ba418a78d",
+    "text": "everyone ghosts. everyone is ghosted. relationships are assymetrical. it's a losing game",
+    "created_time": "2023-11-18T22:20:00.000Z",
+    "updated_time": "2023-11-18T22:27:00.000Z"
+  },
+  {
+    "id": "b57b8be8-aab7-48f4-b3bc-061fa5ee1ee7",
+    "text": "i am not a designer. i am not a developer. i am not a musician. i am not a photographer. i am not a writer. i am all of them – and none",
+    "created_time": "2023-11-18T23:25:00.000Z",
+    "updated_time": "2023-11-20T23:49:00.000Z"
+  },
+  {
+    "id": "95223b81-57fc-4602-99e2-0473b379d465",
+    "text": "software shines through hardware. you need a well-designed form factor. the interface needs to be seamless & sensorial. you need to feel pleasure",
+    "created_time": "2023-11-20T23:42:00.000Z",
+    "updated_time": "2023-11-20T23:56:00.000Z"
+  },
+  {
+    "id": "53363856-458d-43ad-91d5-4b5e0f74c7a0",
+    "text": "mindful imitation: copy what the best do – but understand why they did it",
+    "created_time": "2023-11-20T23:43:00.000Z",
+    "updated_time": "2023-11-22T14:35:00.000Z"
+  },
+  {
+    "id": "635c7566-51c2-4a41-928b-6749e9c3cc97",
+    "text": "long walk + hot shower = mood lift",
+    "created_time": "2023-11-23T12:43:00.000Z",
+    "updated_time": "2023-11-23T12:45:00.000Z"
+  },
+  {
+    "id": "aa981234-cffc-455f-92c1-cbaa414aa5ff",
+    "text": "you know your brand made it when it becomes genericized. “jeep” is every off-road, compact 4x4. “tupperware” is every food container. the brand name became the generic term. W",
+    "created_time": "2023-11-27T10:59:00.000Z",
+    "updated_time": "2023-11-29T21:57:00.000Z"
+  },
+  {
+    "id": "6eaccdac-388e-44b2-8dfb-784b1b937c9f",
+    "text": "you value something more if you pay more for it. when you value something, you feel grateful for it: you cherish it's existence in your life",
+    "created_time": "2023-11-27T11:13:00.000Z",
+    "updated_time": "2023-11-28T14:22:00.000Z"
+  },
+  {
+    "id": "393bd279-c351-449d-9ff9-78204c0f4556",
+    "text": "discomfort either means you’re getting hurt, or you’re getting strong. make sure it’s the right one",
+    "created_time": "2023-11-29T00:19:00.000Z",
+    "updated_time": "2023-11-29T21:55:00.000Z"
+  },
+  {
+    "id": "8c9791fa-cf9a-4f01-9073-ce3ba06c4510",
+    "text": "i feel repulsive to emotionally charged people. yet I always end up meeting them. i think my brain needs unregulated, chaotic energy to shake up the monotony",
+    "created_time": "2023-11-29T21:55:00.000Z",
+    "updated_time": "2025-05-19T21:58:49.983Z"
+  },
+  {
+    "id": "985350a4-d737-44ef-8528-43d4d3121139",
+    "text": "large online meetings are a losing dynamic. louder people talk more, and often have the worst ideas. quiet people are cooking, but get dismissed a lot of times",
+    "created_time": "2023-11-30T13:50:00.000Z",
+    "updated_time": "2025-05-19T21:56:27.198Z"
+  },
+  {
+    "id": "f7fc5904-a213-47a2-8297-3b55d067692d",
+    "text": "very bullish on highly personalized, AI generated erotica. immersive, realistic sexual stimulation via text-image, text-video & text-speech. a great opportunity to make an ethical porn industry, and stop exploiting human sex workers ",
+    "created_time": "2023-12-02T13:13:00.000Z",
+    "updated_time": "2023-12-02T20:07:00.000Z"
+  },
+  {
+    "id": "7c2e57c7-1f61-4c2c-9db7-0290f9ed7935",
+    "text": "something",
+    "created_time": "2025-05-19T21:53:11.804Z",
+    "updated_time": "2025-05-19T21:53:11.804Z"
+  },
+  {
+    "id": "dbc26e99-df01-4fa6-bf86-ea43180dd7f2",
+    "text": "another thing",
+    "created_time": "2025-05-19T21:53:28.816Z",
+    "updated_time": "2025-05-19T21:53:28.816Z"
+  }
+]
