@@ -11,6 +11,20 @@ body {
   --background-neutral-strong: hsl(0 0% 80%);
   --foreground-neutral-default: hsl(0 0% 4%);
   --foreground-neutral-inverse: hsl(0 0% 96%);
+  --border-neutral-default: hsl(0 0% 80%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-neutral-default: hsl(0 0% 4%);
+    --background-neutral-faded: hsl(0 0% 8%);
+    --background-neutral-subtle: hsl(0 0% 12%);
+    --background-neutral-strong: hsl(0 0% 16%);
+    --background-neutral-inverse: hsl(0 0% 96%);
+    --foreground-neutral-default: hsl(0 0% 96%);
+    --foreground-neutral-inverse: hsl(0 0% 4%);
+    --border-neutral-default: hsl(0 0% 24%);
+  }
 }
 
 @theme inline {
@@ -32,6 +46,7 @@ body {
   --color-foreground-neutral-subtle: var(--foreground-neutral-default);
   --color-foreground-neutral-strong: var(--foreground-neutral-default);
   --color-foreground-neutral-inverse: var(--foreground-neutral-inverse);
+  --color-border-neutral-default: var(--border-neutral-default);
 
   --font-*: initial;
   --font-sans: var(--font-geist-sans);
@@ -47,16 +62,4 @@ body {
   --text-display-small: 32px;
   --text-display-medium: 40px;
   --text-display-large: 48px;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background-neutral-default: hsl(0 0% 4%);
-    --background-neutral-faded: hsl(0 0% 8%);
-    --background-neutral-subtle: hsl(0 0% 12%);
-    --background-neutral-strong: hsl(0 0% 16%);
-    --background-neutral-inverse: hsl(0 0% 96%);
-    --foreground-neutral-default: hsl(0 0% 96%);
-    --foreground-neutral-inverse: hsl(0 0% 4%);
-  }
 }
