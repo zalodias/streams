@@ -9,19 +9,20 @@ interface StreamProps {
 
 export function Stream({ id, text }: StreamProps) {
   return (
-    <form action={updateStream} className="flex flex-col gap-2">
-      <input type="hidden" name="id" value={id} />
-      <input
-        type="text"
-        name="text"
-        defaultValue={text}
-        onBlur={(event) => {
-          if (event.target.value !== text) {
-            event.target.form?.requestSubmit();
-          }
-        }}
-        className="w-full"
-      />
-    </form>
+    <div
+      contentEditable
+      suppressContentEditableWarning
+      onBlur={(event) => {
+        if (event.currentTarget.textContent !== text) {
+          const formData = new FormData();
+          formData.append("id", id);
+          formData.append("text", event.currentTarget.textContent || "");
+          updateStream(formData);
+        }
+      }}
+      className="outline-none"
+    >
+      {text}
+    </div>
   );
 }
