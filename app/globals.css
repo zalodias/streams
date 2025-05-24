@@ -12,6 +12,9 @@ body {
   --foreground-neutral-default: hsl(0 0% 4%);
   --foreground-neutral-inverse: hsl(0 0% 96%);
   --border-neutral-default: hsl(0 0% 80%);
+  --border-neutral-strong: hsl(0 0% 64%);
+  --border-neutral-subtle: hsl(0 0% 88%);
+  --border-neutral-faded: hsl(0 0% 92%);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,7 +26,10 @@ body {
     --background-neutral-inverse: hsl(0 0% 96%);
     --foreground-neutral-default: hsl(0 0% 96%);
     --foreground-neutral-inverse: hsl(0 0% 4%);
-    --border-neutral-default: hsl(0 0% 24%);
+    --border-neutral-default: hsl(0 0% 32%);
+    --border-neutral-strong: hsl(0 0% 48%);
+    --border-neutral-subtle: hsl(0 0% 16%);
+    --border-neutral-faded: hsl(0 0% 12%);
   }
 }
 
