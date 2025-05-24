@@ -9,7 +9,10 @@ export async function updateStream(formData: FormData) {
 
   const { error } = await supabase
     .from("Streams")
-    .update({ text })
+    .update({
+      text,
+      updated_time: new Date().toISOString(),
+    })
     .eq("id", id);
 
   if (error) {
