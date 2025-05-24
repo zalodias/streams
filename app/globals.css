@@ -6,11 +6,17 @@ body {
 
 :root {
   --background-neutral-default: hsl(0 0% 96%);
-  --background-neutral-faded: hsl(0 0% 92%);
-  --background-neutral-subtle: hsl(0 0% 88%);
   --background-neutral-strong: hsl(0 0% 80%);
+  --background-neutral-subtle: hsl(0 0% 88%);
+  --background-neutral-faded: hsl(0 0% 92%);
+  --background-neutral-inverse: hsl(0 0% 4%);
+
   --foreground-neutral-default: hsl(0 0% 4%);
+  --foreground-neutral-strong: hsl(0 0% 8%);
+  --foreground-neutral-subtle: hsl(0 0% 12%);
+  --foreground-neutral-faded: hsl(0 0% 16%);
   --foreground-neutral-inverse: hsl(0 0% 96%);
+
   --border-neutral-default: hsl(0 0% 80%);
   --border-neutral-strong: hsl(0 0% 64%);
   --border-neutral-subtle: hsl(0 0% 88%);
@@ -20,12 +26,17 @@ body {
 @media (prefers-color-scheme: dark) {
   :root {
     --background-neutral-default: hsl(0 0% 4%);
-    --background-neutral-faded: hsl(0 0% 8%);
-    --background-neutral-subtle: hsl(0 0% 12%);
     --background-neutral-strong: hsl(0 0% 16%);
+    --background-neutral-subtle: hsl(0 0% 12%);
+    --background-neutral-faded: hsl(0 0% 8%);
     --background-neutral-inverse: hsl(0 0% 96%);
+
     --foreground-neutral-default: hsl(0 0% 96%);
+    --foreground-neutral-strong: hsl(0 0% 92%);
+    --foreground-neutral-subtle: hsl(0 0% 88%);
+    --foreground-neutral-faded: hsl(0 0% 64%);
     --foreground-neutral-inverse: hsl(0 0% 4%);
+
     --border-neutral-default: hsl(0 0% 32%);
     --border-neutral-strong: hsl(0 0% 48%);
     --border-neutral-subtle: hsl(0 0% 16%);
@@ -43,14 +54,14 @@ body {
   --color-*: initial;
   --color-transparent: transparent;
   --color-background-neutral-default: var(--background-neutral-default);
-  --color-background-neutral-faded: var(--background-neutral-faded);
-  --color-background-neutral-subtle: var(--background-neutral-subtle);
   --color-background-neutral-strong: var(--background-neutral-strong);
+  --color-background-neutral-subtle: var(--background-neutral-subtle);
+  --color-background-neutral-faded: var(--background-neutral-faded);
   --color-background-neutral-inverse: var(--background-neutral-inverse);
   --color-foreground-neutral-default: var(--foreground-neutral-default);
-  --color-foreground-neutral-faded: var(--foreground-neutral-default);
-  --color-foreground-neutral-subtle: var(--foreground-neutral-default);
-  --color-foreground-neutral-strong: var(--foreground-neutral-default);
+  --color-foreground-neutral-strong: var(--foreground-neutral-strong);
+  --color-foreground-neutral-subtle: var(--foreground-neutral-subtle);
+  --color-foreground-neutral-faded: var(--foreground-neutral-faded);
   --color-foreground-neutral-inverse: var(--foreground-neutral-inverse);
   --color-border-neutral-default: var(--border-neutral-default);
 
