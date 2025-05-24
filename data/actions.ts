@@ -21,3 +21,28 @@ export async function updateStream(formData: FormData) {
 
   revalidatePath("/");
 }
+
+export async function createStream(formData: FormData) {
+  const text = formData.get("text") as string;
+
+  if (!text.trim()) return;
+
+  const { error } = await supabase.from("Streams").insert([
+    {
+      id: crypto.randomUUID(),
+      text,
+      created_time: new Date().toISOString(),
+      updated_time: new Date().toISOString(),
+    },
+  ]);
+
+  if (error) {
+    console.error("Error creating stream:", error);
+  }
+
+  if (error) {
+    console.error("Error creating stream:", error);
+  }
+
+  revalidatePath("/");
+}
