@@ -9,7 +9,7 @@ export function Container({ children, className }: ContainerProps) {
   return (
     <main
       className={cn(
-        "mx-auto flex flex-col w-full max-w-(--breakpoint-lg) grow items-center gap-5 px-5 md:px-10",
+        "mx-auto grid max-w-(--breakpoint-lg) gap-5 px-5 md:px-10",
         className
       )}
     >
