@@ -20,7 +20,13 @@ export function Stream({ id, text }: StreamProps) {
           updateStream(formData);
         }
       }}
-      className="outline-none"
+      onInput={(event) => {
+        if (event.currentTarget.textContent === "") {
+          event.currentTarget.textContent = "";
+        }
+      }}
+      data-placeholder="What's on your mind?"
+      className="outline-none empty:before:content-[attr(data-placeholder)] empty:before:text-foreground-neutral-faded"
     >
       {text}
     </div>
